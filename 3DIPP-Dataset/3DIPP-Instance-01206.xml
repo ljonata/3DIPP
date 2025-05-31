@@ -1,0 +1,6207 @@
+<problemDefinition>
+  <nPartTypes>12</nPartTypes>
+  <nParts>1211</nParts>
+  <meanDemand>100.91666666666667</meanDemand>
+  <rsdDemand>0.05612157336926902</rsdDemand>
+  <meanMCV>0.3892189925681306</meanMCV>
+  <rsdMCV>0.4790705196911753</rsdMCV>
+  <meanSR>0.19808051197357623</meanSR>
+  <rsdSR>0.7349185429656456</rsdSR>
+  <meanVolMBB>1252285.9869090444</meanVolMBB>
+  <rsdVolMBB>0.9980534722640443</rsdVolMBB>
+  <meanNumFacets>11377.666391412056</meanNumFacets>
+  <rsdNumFacets>1.1439699534245922</rsdNumFacets>
+  <meanSurfaceArea>44299.60385243625</meanSurfaceArea>
+  <rsdSurfaceArea>0.6956945307878142</rsdSurfaceArea>
+  <meanVolume>159402.5964448392</meanVolume>
+  <rsdVolume>0.8892171495019907</rsdVolume>
+  <containers>
+    <cuboid id="0">
+      <height>125.0</height>
+      <volume>2578125.0</volume>
+      <cost>60.4</cost>
+      <time>40</time>
+      <width>125.0</width>
+      <depth>165.0</depth>
+    </cuboid>
+  </containers>
+  <partTypes>
+    <partType id="385">
+      <demand>108</demand>
+      <mcv>0.4907</mcv>
+      <vValue>0.193</vValue>
+      <sr>0.031</sr>
+      <volMBB>37582.15251</volMBB>
+      <facets>17896.0</facets>
+      <surfaceArea>3517.9241</surfaceArea>
+      <volume>1166.9226</volume>
+    </partType>
+    <partType id="243">
+      <demand>103</demand>
+      <mcv>0.267</mcv>
+      <vValue>0.0768</vValue>
+      <sr>0.064</sr>
+      <volMBB>3797528.516</volMBB>
+      <facets>26196.0</facets>
+      <surfaceArea>63279.5083</surfaceArea>
+      <volume>243002.8301</volume>
+    </partType>
+    <partType id="324">
+      <demand>97</demand>
+      <mcv>0.3995</mcv>
+      <vValue>0.1012</vValue>
+      <sr>0.0815</sr>
+      <volMBB>2584918.725</volMBB>
+      <facets>7291.0</facets>
+      <surfaceArea>59378.6983</surfaceArea>
+      <volume>210642.874</volume>
+    </partType>
+    <partType id="357">
+      <demand>100</demand>
+      <mcv>0.3431</mcv>
+      <vValue>0.1164</vValue>
+      <sr>0.2436</sr>
+      <volMBB>2068227.266</volMBB>
+      <facets>41722.0</facets>
+      <surfaceArea>83559.5064</surfaceArea>
+      <volume>503715.5324</volume>
+    </partType>
+    <partType id="201">
+      <demand>112</demand>
+      <mcv>0.3721</mcv>
+      <vValue>0.112</vValue>
+      <sr>0.2544</sr>
+      <volMBB>958190.8251</volMBB>
+      <facets>938.0</facets>
+      <surfaceArea>49953.0259</surfaceArea>
+      <volume>243745.4609</volume>
+    </partType>
+    <partType id="361">
+      <demand>93</demand>
+      <mcv>0.2188</mcv>
+      <vValue>0.0814</vValue>
+      <sr>0.0864</sr>
+      <volMBB>1014703.181</volMBB>
+      <facets>1374.0</facets>
+      <surfaceArea>33412.5452</surfaceArea>
+      <volume>87655.0135</volume>
+    </partType>
+    <partType id="282">
+      <demand>99</demand>
+      <mcv>0.3286</mcv>
+      <vValue>0.1607</vValue>
+      <sr>0.4205</sr>
+      <volMBB>206861.3612</volMBB>
+      <facets>238.0</facets>
+      <surfaceArea>38709.4785</surfaceArea>
+      <volume>86982.4323</volume>
+    </partType>
+    <partType id="26">
+      <demand>103</demand>
+      <mcv>0.4064</mcv>
+      <vValue>0.2231</vValue>
+      <sr>0.1681</sr>
+      <volMBB>115732.8864</volMBB>
+      <facets>14353.0</facets>
+      <surfaceArea>18804.2383</surfaceArea>
+      <volume>19454.888</volume>
+    </partType>
+    <partType id="332">
+      <demand>103</demand>
+      <mcv>0.9433</mcv>
+      <vValue>0.0519</vValue>
+      <sr>0.532</sr>
+      <volMBB>9516.525355</volMBB>
+      <facets>456.0</facets>
+      <surfaceArea>1998.3086</surfaceArea>
+      <volume>5063.1182</volume>
+    </partType>
+    <partType id="110">
+      <demand>98</demand>
+      <mcv>0.3847</mcv>
+      <vValue>0.0962</vValue>
+      <sr>0.219</sr>
+      <volMBB>222184.1605</volMBB>
+      <facets>456.0</facets>
+      <surfaceArea>14850.1864</surfaceArea>
+      <volume>48667.9777</volume>
+    </partType>
+    <partType id="94">
+      <demand>91</demand>
+      <mcv>0.2558</mcv>
+      <vValue>0.0868</vValue>
+      <sr>0.1822</sr>
+      <volMBB>1084957.636</volMBB>
+      <facets>24700.0</facets>
+      <surfaceArea>62127.9937</surfaceArea>
+      <volume>197678.518</volume>
+    </partType>
+    <partType id="143">
+      <demand>104</demand>
+      <mcv>0.2234</mcv>
+      <vValue>0.0939</vValue>
+      <sr>0.09</sr>
+      <volMBB>2963310.121</volMBB>
+      <facets>1864.0</facets>
+      <surfaceArea>104302.2955</surfaceArea>
+      <volume>266645.0276</volume>
+    </partType>
+  </partTypes>
+  <parts>
+    <part id="385:0">
+      <idPartType>385</idPartType>
+      <value>40.51</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="385:1">
+      <idPartType>385</idPartType>
+      <value>97.44</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="385:2">
+      <idPartType>385</idPartType>
+      <value>79.73</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="385:3">
+      <idPartType>385</idPartType>
+      <value>77.37</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="385:4">
+      <idPartType>385</idPartType>
+      <value>71.63</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="385:5">
+      <idPartType>385</idPartType>
+      <value>41.75</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="385:6">
+      <idPartType>385</idPartType>
+      <value>32.64</value>
+      <dueDate>39</dueDate>
+    </part>
+    <part id="385:7">
+      <idPartType>385</idPartType>
+      <value>36.45</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="385:8">
+      <idPartType>385</idPartType>
+      <value>95.67</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="385:9">
+      <idPartType>385</idPartType>
+      <value>69.85</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="385:10">
+      <idPartType>385</idPartType>
+      <value>63.92</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="385:11">
+      <idPartType>385</idPartType>
+      <value>47.22</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="385:12">
+      <idPartType>385</idPartType>
+      <value>8.97</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="385:13">
+      <idPartType>385</idPartType>
+      <value>49.91</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="385:14">
+      <idPartType>385</idPartType>
+      <value>62.07</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="385:15">
+      <idPartType>385</idPartType>
+      <value>17.1</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="385:16">
+      <idPartType>385</idPartType>
+      <value>94.56</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="385:17">
+      <idPartType>385</idPartType>
+      <value>77.17</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="385:18">
+      <idPartType>385</idPartType>
+      <value>34.85</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="385:19">
+      <idPartType>385</idPartType>
+      <value>74.88</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="385:20">
+      <idPartType>385</idPartType>
+      <value>64.13</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="385:21">
+      <idPartType>385</idPartType>
+      <value>27.24</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="385:22">
+      <idPartType>385</idPartType>
+      <value>82.64</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="385:23">
+      <idPartType>385</idPartType>
+      <value>75.36</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="385:24">
+      <idPartType>385</idPartType>
+      <value>14.06</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="385:25">
+      <idPartType>385</idPartType>
+      <value>30.23</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="385:26">
+      <idPartType>385</idPartType>
+      <value>14.93</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="385:27">
+      <idPartType>385</idPartType>
+      <value>99.45</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="385:28">
+      <idPartType>385</idPartType>
+      <value>78.52</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="385:29">
+      <idPartType>385</idPartType>
+      <value>88.11</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="385:30">
+      <idPartType>385</idPartType>
+      <value>28.73</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="385:31">
+      <idPartType>385</idPartType>
+      <value>24.58</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="385:32">
+      <idPartType>385</idPartType>
+      <value>32.14</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="385:33">
+      <idPartType>385</idPartType>
+      <value>2.29</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="385:34">
+      <idPartType>385</idPartType>
+      <value>85.79</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="385:35">
+      <idPartType>385</idPartType>
+      <value>66.17</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="385:36">
+      <idPartType>385</idPartType>
+      <value>64.9</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="385:37">
+      <idPartType>385</idPartType>
+      <value>5.16</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="385:38">
+      <idPartType>385</idPartType>
+      <value>71.43</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="385:39">
+      <idPartType>385</idPartType>
+      <value>36.06</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="385:40">
+      <idPartType>385</idPartType>
+      <value>61.23</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="385:41">
+      <idPartType>385</idPartType>
+      <value>72.31</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="385:42">
+      <idPartType>385</idPartType>
+      <value>26.17</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="385:43">
+      <idPartType>385</idPartType>
+      <value>96.07</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="385:44">
+      <idPartType>385</idPartType>
+      <value>26.24</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="385:45">
+      <idPartType>385</idPartType>
+      <value>51.2</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="385:46">
+      <idPartType>385</idPartType>
+      <value>82.29</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="385:47">
+      <idPartType>385</idPartType>
+      <value>78.2</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="385:48">
+      <idPartType>385</idPartType>
+      <value>22.34</value>
+      <dueDate>31</dueDate>
+    </part>
+    <part id="385:49">
+      <idPartType>385</idPartType>
+      <value>60.85</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="385:50">
+      <idPartType>385</idPartType>
+      <value>41.77</value>
+      <dueDate>39</dueDate>
+    </part>
+    <part id="385:51">
+      <idPartType>385</idPartType>
+      <value>100.55</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="385:52">
+      <idPartType>385</idPartType>
+      <value>94.72</value>
+      <dueDate>21</dueDate>
+    </part>
+    <part id="385:53">
+      <idPartType>385</idPartType>
+      <value>74.39</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="385:54">
+      <idPartType>385</idPartType>
+      <value>16.47</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="385:55">
+      <idPartType>385</idPartType>
+      <value>87.89</value>
+      <dueDate>31</dueDate>
+    </part>
+    <part id="385:56">
+      <idPartType>385</idPartType>
+      <value>54.42</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="385:57">
+      <idPartType>385</idPartType>
+      <value>85.63</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="385:58">
+      <idPartType>385</idPartType>
+      <value>43.93</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="385:59">
+      <idPartType>385</idPartType>
+      <value>45.17</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="385:60">
+      <idPartType>385</idPartType>
+      <value>59.17</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="385:61">
+      <idPartType>385</idPartType>
+      <value>20.08</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="385:62">
+      <idPartType>385</idPartType>
+      <value>57.0</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="385:63">
+      <idPartType>385</idPartType>
+      <value>73.67</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="385:64">
+      <idPartType>385</idPartType>
+      <value>37.49</value>
+      <dueDate>31</dueDate>
+    </part>
+    <part id="385:65">
+      <idPartType>385</idPartType>
+      <value>82.63</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="385:66">
+      <idPartType>385</idPartType>
+      <value>46.06</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="385:67">
+      <idPartType>385</idPartType>
+      <value>35.2</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="385:68">
+      <idPartType>385</idPartType>
+      <value>69.19</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="385:69">
+      <idPartType>385</idPartType>
+      <value>36.41</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="385:70">
+      <idPartType>385</idPartType>
+      <value>21.34</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="385:71">
+      <idPartType>385</idPartType>
+      <value>85.69</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="385:72">
+      <idPartType>385</idPartType>
+      <value>89.09</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="385:73">
+      <idPartType>385</idPartType>
+      <value>91.89</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="385:74">
+      <idPartType>385</idPartType>
+      <value>79.65</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="385:75">
+      <idPartType>385</idPartType>
+      <value>22.62</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="385:76">
+      <idPartType>385</idPartType>
+      <value>70.89</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="385:77">
+      <idPartType>385</idPartType>
+      <value>8.37</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="385:78">
+      <idPartType>385</idPartType>
+      <value>63.28</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="385:79">
+      <idPartType>385</idPartType>
+      <value>32.12</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="385:80">
+      <idPartType>385</idPartType>
+      <value>71.53</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="385:81">
+      <idPartType>385</idPartType>
+      <value>94.83</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="385:82">
+      <idPartType>385</idPartType>
+      <value>87.04</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="385:83">
+      <idPartType>385</idPartType>
+      <value>21.29</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="385:84">
+      <idPartType>385</idPartType>
+      <value>43.3</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="385:85">
+      <idPartType>385</idPartType>
+      <value>57.66</value>
+      <dueDate>39</dueDate>
+    </part>
+    <part id="385:86">
+      <idPartType>385</idPartType>
+      <value>6.89</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="385:87">
+      <idPartType>385</idPartType>
+      <value>75.38</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="385:88">
+      <idPartType>385</idPartType>
+      <value>21.87</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="385:89">
+      <idPartType>385</idPartType>
+      <value>11.56</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="385:90">
+      <idPartType>385</idPartType>
+      <value>25.03</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="385:91">
+      <idPartType>385</idPartType>
+      <value>63.12</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="385:92">
+      <idPartType>385</idPartType>
+      <value>64.77</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="385:93">
+      <idPartType>385</idPartType>
+      <value>22.09</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="385:94">
+      <idPartType>385</idPartType>
+      <value>24.68</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="385:95">
+      <idPartType>385</idPartType>
+      <value>5.34</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="385:96">
+      <idPartType>385</idPartType>
+      <value>88.34</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="385:97">
+      <idPartType>385</idPartType>
+      <value>23.46</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="385:98">
+      <idPartType>385</idPartType>
+      <value>12.55</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="385:99">
+      <idPartType>385</idPartType>
+      <value>33.69</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="385:100">
+      <idPartType>385</idPartType>
+      <value>46.65</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="385:101">
+      <idPartType>385</idPartType>
+      <value>89.39</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="385:102">
+      <idPartType>385</idPartType>
+      <value>19.48</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="385:103">
+      <idPartType>385</idPartType>
+      <value>59.12</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="385:104">
+      <idPartType>385</idPartType>
+      <value>25.47</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="385:105">
+      <idPartType>385</idPartType>
+      <value>76.7</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="385:106">
+      <idPartType>385</idPartType>
+      <value>76.23</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="385:107">
+      <idPartType>385</idPartType>
+      <value>90.62</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="243:0">
+      <idPartType>243</idPartType>
+      <value>25.41</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="243:1">
+      <idPartType>243</idPartType>
+      <value>5.72</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="243:2">
+      <idPartType>243</idPartType>
+      <value>88.74</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="243:3">
+      <idPartType>243</idPartType>
+      <value>39.35</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="243:4">
+      <idPartType>243</idPartType>
+      <value>65.1</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="243:5">
+      <idPartType>243</idPartType>
+      <value>47.55</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="243:6">
+      <idPartType>243</idPartType>
+      <value>90.49</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="243:7">
+      <idPartType>243</idPartType>
+      <value>92.34</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="243:8">
+      <idPartType>243</idPartType>
+      <value>6.05</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="243:9">
+      <idPartType>243</idPartType>
+      <value>8.9</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="243:10">
+      <idPartType>243</idPartType>
+      <value>41.2</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="243:11">
+      <idPartType>243</idPartType>
+      <value>74.17</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="243:12">
+      <idPartType>243</idPartType>
+      <value>43.19</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="243:13">
+      <idPartType>243</idPartType>
+      <value>9.86</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="243:14">
+      <idPartType>243</idPartType>
+      <value>73.17</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="243:15">
+      <idPartType>243</idPartType>
+      <value>48.79</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="243:16">
+      <idPartType>243</idPartType>
+      <value>97.6</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="243:17">
+      <idPartType>243</idPartType>
+      <value>50.65</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="243:18">
+      <idPartType>243</idPartType>
+      <value>98.81</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="243:19">
+      <idPartType>243</idPartType>
+      <value>63.36</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="243:20">
+      <idPartType>243</idPartType>
+      <value>21.08</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="243:21">
+      <idPartType>243</idPartType>
+      <value>38.89</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="243:22">
+      <idPartType>243</idPartType>
+      <value>84.43</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="243:23">
+      <idPartType>243</idPartType>
+      <value>48.19</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="243:24">
+      <idPartType>243</idPartType>
+      <value>76.65</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="243:25">
+      <idPartType>243</idPartType>
+      <value>70.54</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="243:26">
+      <idPartType>243</idPartType>
+      <value>51.43</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="243:27">
+      <idPartType>243</idPartType>
+      <value>64.83</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="243:28">
+      <idPartType>243</idPartType>
+      <value>95.8</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="243:29">
+      <idPartType>243</idPartType>
+      <value>13.92</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="243:30">
+      <idPartType>243</idPartType>
+      <value>84.62</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="243:31">
+      <idPartType>243</idPartType>
+      <value>17.05</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="243:32">
+      <idPartType>243</idPartType>
+      <value>56.47</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="243:33">
+      <idPartType>243</idPartType>
+      <value>67.29</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="243:34">
+      <idPartType>243</idPartType>
+      <value>39.08</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="243:35">
+      <idPartType>243</idPartType>
+      <value>95.82</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="243:36">
+      <idPartType>243</idPartType>
+      <value>47.14</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="243:37">
+      <idPartType>243</idPartType>
+      <value>44.56</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="243:38">
+      <idPartType>243</idPartType>
+      <value>37.27</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="243:39">
+      <idPartType>243</idPartType>
+      <value>31.89</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="243:40">
+      <idPartType>243</idPartType>
+      <value>28.49</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="243:41">
+      <idPartType>243</idPartType>
+      <value>80.43</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="243:42">
+      <idPartType>243</idPartType>
+      <value>14.5</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="243:43">
+      <idPartType>243</idPartType>
+      <value>51.78</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="243:44">
+      <idPartType>243</idPartType>
+      <value>18.56</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="243:45">
+      <idPartType>243</idPartType>
+      <value>42.9</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="243:46">
+      <idPartType>243</idPartType>
+      <value>95.15</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="243:47">
+      <idPartType>243</idPartType>
+      <value>22.64</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="243:48">
+      <idPartType>243</idPartType>
+      <value>78.09</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="243:49">
+      <idPartType>243</idPartType>
+      <value>46.94</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="243:50">
+      <idPartType>243</idPartType>
+      <value>89.79</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="243:51">
+      <idPartType>243</idPartType>
+      <value>84.38</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="243:52">
+      <idPartType>243</idPartType>
+      <value>75.91</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="243:53">
+      <idPartType>243</idPartType>
+      <value>94.67</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="243:54">
+      <idPartType>243</idPartType>
+      <value>81.57</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="243:55">
+      <idPartType>243</idPartType>
+      <value>88.21</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="243:56">
+      <idPartType>243</idPartType>
+      <value>59.57</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="243:57">
+      <idPartType>243</idPartType>
+      <value>33.36</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="243:58">
+      <idPartType>243</idPartType>
+      <value>93.01</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="243:59">
+      <idPartType>243</idPartType>
+      <value>28.09</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="243:60">
+      <idPartType>243</idPartType>
+      <value>31.06</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="243:61">
+      <idPartType>243</idPartType>
+      <value>48.58</value>
+      <dueDate>39</dueDate>
+    </part>
+    <part id="243:62">
+      <idPartType>243</idPartType>
+      <value>74.56</value>
+      <dueDate>21</dueDate>
+    </part>
+    <part id="243:63">
+      <idPartType>243</idPartType>
+      <value>84.42</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="243:64">
+      <idPartType>243</idPartType>
+      <value>44.27</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="243:65">
+      <idPartType>243</idPartType>
+      <value>64.7</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="243:66">
+      <idPartType>243</idPartType>
+      <value>54.79</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="243:67">
+      <idPartType>243</idPartType>
+      <value>21.45</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="243:68">
+      <idPartType>243</idPartType>
+      <value>58.21</value>
+      <dueDate>21</dueDate>
+    </part>
+    <part id="243:69">
+      <idPartType>243</idPartType>
+      <value>42.87</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="243:70">
+      <idPartType>243</idPartType>
+      <value>19.62</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="243:71">
+      <idPartType>243</idPartType>
+      <value>44.28</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="243:72">
+      <idPartType>243</idPartType>
+      <value>32.19</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="243:73">
+      <idPartType>243</idPartType>
+      <value>75.68</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="243:74">
+      <idPartType>243</idPartType>
+      <value>11.43</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="243:75">
+      <idPartType>243</idPartType>
+      <value>36.12</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="243:76">
+      <idPartType>243</idPartType>
+      <value>67.62</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="243:77">
+      <idPartType>243</idPartType>
+      <value>22.87</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="243:78">
+      <idPartType>243</idPartType>
+      <value>35.82</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="243:79">
+      <idPartType>243</idPartType>
+      <value>48.77</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="243:80">
+      <idPartType>243</idPartType>
+      <value>40.74</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="243:81">
+      <idPartType>243</idPartType>
+      <value>99.51</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="243:82">
+      <idPartType>243</idPartType>
+      <value>48.56</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="243:83">
+      <idPartType>243</idPartType>
+      <value>2.34</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="243:84">
+      <idPartType>243</idPartType>
+      <value>35.67</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="243:85">
+      <idPartType>243</idPartType>
+      <value>71.83</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="243:86">
+      <idPartType>243</idPartType>
+      <value>41.95</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="243:87">
+      <idPartType>243</idPartType>
+      <value>84.67</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="243:88">
+      <idPartType>243</idPartType>
+      <value>53.92</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="243:89">
+      <idPartType>243</idPartType>
+      <value>82.72</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="243:90">
+      <idPartType>243</idPartType>
+      <value>19.58</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="243:91">
+      <idPartType>243</idPartType>
+      <value>4.8</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="243:92">
+      <idPartType>243</idPartType>
+      <value>21.07</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="243:93">
+      <idPartType>243</idPartType>
+      <value>80.89</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="243:94">
+      <idPartType>243</idPartType>
+      <value>12.35</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="243:95">
+      <idPartType>243</idPartType>
+      <value>3.35</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="243:96">
+      <idPartType>243</idPartType>
+      <value>32.56</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="243:97">
+      <idPartType>243</idPartType>
+      <value>72.4</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="243:98">
+      <idPartType>243</idPartType>
+      <value>54.81</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="243:99">
+      <idPartType>243</idPartType>
+      <value>17.67</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="243:100">
+      <idPartType>243</idPartType>
+      <value>25.01</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="243:101">
+      <idPartType>243</idPartType>
+      <value>21.35</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="243:102">
+      <idPartType>243</idPartType>
+      <value>77.35</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="324:0">
+      <idPartType>324</idPartType>
+      <value>31.29</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="324:1">
+      <idPartType>324</idPartType>
+      <value>49.68</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="324:2">
+      <idPartType>324</idPartType>
+      <value>64.61</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="324:3">
+      <idPartType>324</idPartType>
+      <value>30.62</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="324:4">
+      <idPartType>324</idPartType>
+      <value>51.34</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="324:5">
+      <idPartType>324</idPartType>
+      <value>77.51</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="324:6">
+      <idPartType>324</idPartType>
+      <value>54.61</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="324:7">
+      <idPartType>324</idPartType>
+      <value>10.43</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="324:8">
+      <idPartType>324</idPartType>
+      <value>79.03</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="324:9">
+      <idPartType>324</idPartType>
+      <value>25.79</value>
+      <dueDate>31</dueDate>
+    </part>
+    <part id="324:10">
+      <idPartType>324</idPartType>
+      <value>29.41</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="324:11">
+      <idPartType>324</idPartType>
+      <value>93.75</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="324:12">
+      <idPartType>324</idPartType>
+      <value>96.83</value>
+      <dueDate>21</dueDate>
+    </part>
+    <part id="324:13">
+      <idPartType>324</idPartType>
+      <value>54.03</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="324:14">
+      <idPartType>324</idPartType>
+      <value>21.31</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="324:15">
+      <idPartType>324</idPartType>
+      <value>92.88</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="324:16">
+      <idPartType>324</idPartType>
+      <value>51.33</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="324:17">
+      <idPartType>324</idPartType>
+      <value>96.55</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="324:18">
+      <idPartType>324</idPartType>
+      <value>38.89</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="324:19">
+      <idPartType>324</idPartType>
+      <value>33.06</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="324:20">
+      <idPartType>324</idPartType>
+      <value>76.88</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="324:21">
+      <idPartType>324</idPartType>
+      <value>44.83</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="324:22">
+      <idPartType>324</idPartType>
+      <value>92.05</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="324:23">
+      <idPartType>324</idPartType>
+      <value>17.7</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="324:24">
+      <idPartType>324</idPartType>
+      <value>75.7</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="324:25">
+      <idPartType>324</idPartType>
+      <value>49.44</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="324:26">
+      <idPartType>324</idPartType>
+      <value>20.0</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="324:27">
+      <idPartType>324</idPartType>
+      <value>60.11</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="324:28">
+      <idPartType>324</idPartType>
+      <value>44.31</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="324:29">
+      <idPartType>324</idPartType>
+      <value>14.65</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="324:30">
+      <idPartType>324</idPartType>
+      <value>37.07</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="324:31">
+      <idPartType>324</idPartType>
+      <value>87.27</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="324:32">
+      <idPartType>324</idPartType>
+      <value>41.14</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="324:33">
+      <idPartType>324</idPartType>
+      <value>17.55</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="324:34">
+      <idPartType>324</idPartType>
+      <value>33.9</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="324:35">
+      <idPartType>324</idPartType>
+      <value>1.62</value>
+      <dueDate>21</dueDate>
+    </part>
+    <part id="324:36">
+      <idPartType>324</idPartType>
+      <value>10.28</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="324:37">
+      <idPartType>324</idPartType>
+      <value>2.88</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="324:38">
+      <idPartType>324</idPartType>
+      <value>81.9</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="324:39">
+      <idPartType>324</idPartType>
+      <value>73.49</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="324:40">
+      <idPartType>324</idPartType>
+      <value>72.51</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="324:41">
+      <idPartType>324</idPartType>
+      <value>16.58</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="324:42">
+      <idPartType>324</idPartType>
+      <value>47.44</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="324:43">
+      <idPartType>324</idPartType>
+      <value>19.08</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="324:44">
+      <idPartType>324</idPartType>
+      <value>35.73</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="324:45">
+      <idPartType>324</idPartType>
+      <value>23.2</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="324:46">
+      <idPartType>324</idPartType>
+      <value>59.57</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="324:47">
+      <idPartType>324</idPartType>
+      <value>46.0</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="324:48">
+      <idPartType>324</idPartType>
+      <value>59.06</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="324:49">
+      <idPartType>324</idPartType>
+      <value>56.16</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="324:50">
+      <idPartType>324</idPartType>
+      <value>11.34</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="324:51">
+      <idPartType>324</idPartType>
+      <value>56.32</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="324:52">
+      <idPartType>324</idPartType>
+      <value>79.33</value>
+      <dueDate>39</dueDate>
+    </part>
+    <part id="324:53">
+      <idPartType>324</idPartType>
+      <value>27.68</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="324:54">
+      <idPartType>324</idPartType>
+      <value>48.54</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="324:55">
+      <idPartType>324</idPartType>
+      <value>31.96</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="324:56">
+      <idPartType>324</idPartType>
+      <value>7.94</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="324:57">
+      <idPartType>324</idPartType>
+      <value>48.76</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="324:58">
+      <idPartType>324</idPartType>
+      <value>92.04</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="324:59">
+      <idPartType>324</idPartType>
+      <value>72.23</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="324:60">
+      <idPartType>324</idPartType>
+      <value>65.38</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="324:61">
+      <idPartType>324</idPartType>
+      <value>3.22</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="324:62">
+      <idPartType>324</idPartType>
+      <value>97.71</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="324:63">
+      <idPartType>324</idPartType>
+      <value>51.38</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="324:64">
+      <idPartType>324</idPartType>
+      <value>5.51</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="324:65">
+      <idPartType>324</idPartType>
+      <value>77.79</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="324:66">
+      <idPartType>324</idPartType>
+      <value>21.88</value>
+      <dueDate>21</dueDate>
+    </part>
+    <part id="324:67">
+      <idPartType>324</idPartType>
+      <value>44.48</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="324:68">
+      <idPartType>324</idPartType>
+      <value>13.68</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="324:69">
+      <idPartType>324</idPartType>
+      <value>67.84</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="324:70">
+      <idPartType>324</idPartType>
+      <value>87.31</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="324:71">
+      <idPartType>324</idPartType>
+      <value>73.81</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="324:72">
+      <idPartType>324</idPartType>
+      <value>40.44</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="324:73">
+      <idPartType>324</idPartType>
+      <value>72.56</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="324:74">
+      <idPartType>324</idPartType>
+      <value>33.74</value>
+      <dueDate>31</dueDate>
+    </part>
+    <part id="324:75">
+      <idPartType>324</idPartType>
+      <value>30.61</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="324:76">
+      <idPartType>324</idPartType>
+      <value>61.92</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="324:77">
+      <idPartType>324</idPartType>
+      <value>30.99</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="324:78">
+      <idPartType>324</idPartType>
+      <value>55.29</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="324:79">
+      <idPartType>324</idPartType>
+      <value>66.18</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="324:80">
+      <idPartType>324</idPartType>
+      <value>72.99</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="324:81">
+      <idPartType>324</idPartType>
+      <value>69.94</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="324:82">
+      <idPartType>324</idPartType>
+      <value>32.36</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="324:83">
+      <idPartType>324</idPartType>
+      <value>45.35</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="324:84">
+      <idPartType>324</idPartType>
+      <value>8.92</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="324:85">
+      <idPartType>324</idPartType>
+      <value>75.5</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="324:86">
+      <idPartType>324</idPartType>
+      <value>35.02</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="324:87">
+      <idPartType>324</idPartType>
+      <value>47.55</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="324:88">
+      <idPartType>324</idPartType>
+      <value>25.01</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="324:89">
+      <idPartType>324</idPartType>
+      <value>22.32</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="324:90">
+      <idPartType>324</idPartType>
+      <value>24.9</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="324:91">
+      <idPartType>324</idPartType>
+      <value>56.96</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="324:92">
+      <idPartType>324</idPartType>
+      <value>14.23</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="324:93">
+      <idPartType>324</idPartType>
+      <value>8.96</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="324:94">
+      <idPartType>324</idPartType>
+      <value>100.0</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="324:95">
+      <idPartType>324</idPartType>
+      <value>33.89</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="324:96">
+      <idPartType>324</idPartType>
+      <value>14.4</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="357:0">
+      <idPartType>357</idPartType>
+      <value>37.29</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="357:1">
+      <idPartType>357</idPartType>
+      <value>88.28</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="357:2">
+      <idPartType>357</idPartType>
+      <value>21.82</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="357:3">
+      <idPartType>357</idPartType>
+      <value>5.87</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="357:4">
+      <idPartType>357</idPartType>
+      <value>19.86</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="357:5">
+      <idPartType>357</idPartType>
+      <value>95.58</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="357:6">
+      <idPartType>357</idPartType>
+      <value>45.96</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="357:7">
+      <idPartType>357</idPartType>
+      <value>66.43</value>
+      <dueDate>31</dueDate>
+    </part>
+    <part id="357:8">
+      <idPartType>357</idPartType>
+      <value>8.08</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="357:9">
+      <idPartType>357</idPartType>
+      <value>89.66</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="357:10">
+      <idPartType>357</idPartType>
+      <value>64.31</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="357:11">
+      <idPartType>357</idPartType>
+      <value>74.13</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="357:12">
+      <idPartType>357</idPartType>
+      <value>57.47</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="357:13">
+      <idPartType>357</idPartType>
+      <value>56.98</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="357:14">
+      <idPartType>357</idPartType>
+      <value>64.23</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="357:15">
+      <idPartType>357</idPartType>
+      <value>2.55</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="357:16">
+      <idPartType>357</idPartType>
+      <value>13.43</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="357:17">
+      <idPartType>357</idPartType>
+      <value>100.35</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="357:18">
+      <idPartType>357</idPartType>
+      <value>68.89</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="357:19">
+      <idPartType>357</idPartType>
+      <value>64.57</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="357:20">
+      <idPartType>357</idPartType>
+      <value>35.83</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="357:21">
+      <idPartType>357</idPartType>
+      <value>65.67</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="357:22">
+      <idPartType>357</idPartType>
+      <value>48.88</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="357:23">
+      <idPartType>357</idPartType>
+      <value>34.54</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="357:24">
+      <idPartType>357</idPartType>
+      <value>32.67</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="357:25">
+      <idPartType>357</idPartType>
+      <value>51.03</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="357:26">
+      <idPartType>357</idPartType>
+      <value>83.06</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="357:27">
+      <idPartType>357</idPartType>
+      <value>27.68</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="357:28">
+      <idPartType>357</idPartType>
+      <value>39.78</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="357:29">
+      <idPartType>357</idPartType>
+      <value>84.1</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="357:30">
+      <idPartType>357</idPartType>
+      <value>97.1</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="357:31">
+      <idPartType>357</idPartType>
+      <value>78.87</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="357:32">
+      <idPartType>357</idPartType>
+      <value>35.55</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="357:33">
+      <idPartType>357</idPartType>
+      <value>68.63</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="357:34">
+      <idPartType>357</idPartType>
+      <value>33.56</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="357:35">
+      <idPartType>357</idPartType>
+      <value>37.21</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="357:36">
+      <idPartType>357</idPartType>
+      <value>85.63</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="357:37">
+      <idPartType>357</idPartType>
+      <value>30.44</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="357:38">
+      <idPartType>357</idPartType>
+      <value>87.99</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="357:39">
+      <idPartType>357</idPartType>
+      <value>52.19</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="357:40">
+      <idPartType>357</idPartType>
+      <value>66.86</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="357:41">
+      <idPartType>357</idPartType>
+      <value>11.79</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="357:42">
+      <idPartType>357</idPartType>
+      <value>33.51</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="357:43">
+      <idPartType>357</idPartType>
+      <value>52.0</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="357:44">
+      <idPartType>357</idPartType>
+      <value>60.93</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="357:45">
+      <idPartType>357</idPartType>
+      <value>11.72</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="357:46">
+      <idPartType>357</idPartType>
+      <value>63.39</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="357:47">
+      <idPartType>357</idPartType>
+      <value>14.49</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="357:48">
+      <idPartType>357</idPartType>
+      <value>53.62</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="357:49">
+      <idPartType>357</idPartType>
+      <value>82.98</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="357:50">
+      <idPartType>357</idPartType>
+      <value>5.65</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="357:51">
+      <idPartType>357</idPartType>
+      <value>69.27</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="357:52">
+      <idPartType>357</idPartType>
+      <value>36.0</value>
+      <dueDate>21</dueDate>
+    </part>
+    <part id="357:53">
+      <idPartType>357</idPartType>
+      <value>24.05</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="357:54">
+      <idPartType>357</idPartType>
+      <value>14.48</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="357:55">
+      <idPartType>357</idPartType>
+      <value>91.44</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="357:56">
+      <idPartType>357</idPartType>
+      <value>16.74</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="357:57">
+      <idPartType>357</idPartType>
+      <value>40.46</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="357:58">
+      <idPartType>357</idPartType>
+      <value>66.12</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="357:59">
+      <idPartType>357</idPartType>
+      <value>99.34</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="357:60">
+      <idPartType>357</idPartType>
+      <value>5.28</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="357:61">
+      <idPartType>357</idPartType>
+      <value>54.07</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="357:62">
+      <idPartType>357</idPartType>
+      <value>86.06</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="357:63">
+      <idPartType>357</idPartType>
+      <value>31.67</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="357:64">
+      <idPartType>357</idPartType>
+      <value>70.63</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="357:65">
+      <idPartType>357</idPartType>
+      <value>63.58</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="357:66">
+      <idPartType>357</idPartType>
+      <value>4.2</value>
+      <dueDate>39</dueDate>
+    </part>
+    <part id="357:67">
+      <idPartType>357</idPartType>
+      <value>83.18</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="357:68">
+      <idPartType>357</idPartType>
+      <value>78.86</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="357:69">
+      <idPartType>357</idPartType>
+      <value>75.04</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="357:70">
+      <idPartType>357</idPartType>
+      <value>75.56</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="357:71">
+      <idPartType>357</idPartType>
+      <value>38.49</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="357:72">
+      <idPartType>357</idPartType>
+      <value>42.12</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="357:73">
+      <idPartType>357</idPartType>
+      <value>38.44</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="357:74">
+      <idPartType>357</idPartType>
+      <value>56.53</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="357:75">
+      <idPartType>357</idPartType>
+      <value>75.18</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="357:76">
+      <idPartType>357</idPartType>
+      <value>3.41</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="357:77">
+      <idPartType>357</idPartType>
+      <value>24.85</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="357:78">
+      <idPartType>357</idPartType>
+      <value>89.7</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="357:79">
+      <idPartType>357</idPartType>
+      <value>58.63</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="357:80">
+      <idPartType>357</idPartType>
+      <value>35.21</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="357:81">
+      <idPartType>357</idPartType>
+      <value>30.03</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="357:82">
+      <idPartType>357</idPartType>
+      <value>9.15</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="357:83">
+      <idPartType>357</idPartType>
+      <value>23.78</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="357:84">
+      <idPartType>357</idPartType>
+      <value>48.07</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="357:85">
+      <idPartType>357</idPartType>
+      <value>81.51</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="357:86">
+      <idPartType>357</idPartType>
+      <value>30.51</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="357:87">
+      <idPartType>357</idPartType>
+      <value>12.92</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="357:88">
+      <idPartType>357</idPartType>
+      <value>10.06</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="357:89">
+      <idPartType>357</idPartType>
+      <value>89.55</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="357:90">
+      <idPartType>357</idPartType>
+      <value>67.43</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="357:91">
+      <idPartType>357</idPartType>
+      <value>2.13</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="357:92">
+      <idPartType>357</idPartType>
+      <value>43.2</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="357:93">
+      <idPartType>357</idPartType>
+      <value>14.35</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="357:94">
+      <idPartType>357</idPartType>
+      <value>12.13</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="357:95">
+      <idPartType>357</idPartType>
+      <value>15.81</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="357:96">
+      <idPartType>357</idPartType>
+      <value>33.28</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="357:97">
+      <idPartType>357</idPartType>
+      <value>12.87</value>
+      <dueDate>21</dueDate>
+    </part>
+    <part id="357:98">
+      <idPartType>357</idPartType>
+      <value>12.67</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="357:99">
+      <idPartType>357</idPartType>
+      <value>70.0</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="201:0">
+      <idPartType>201</idPartType>
+      <value>10.04</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="201:1">
+      <idPartType>201</idPartType>
+      <value>85.84</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="201:2">
+      <idPartType>201</idPartType>
+      <value>62.32</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="201:3">
+      <idPartType>201</idPartType>
+      <value>51.72</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="201:4">
+      <idPartType>201</idPartType>
+      <value>92.47</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="201:5">
+      <idPartType>201</idPartType>
+      <value>18.15</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="201:6">
+      <idPartType>201</idPartType>
+      <value>14.41</value>
+      <dueDate>39</dueDate>
+    </part>
+    <part id="201:7">
+      <idPartType>201</idPartType>
+      <value>86.62</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="201:8">
+      <idPartType>201</idPartType>
+      <value>65.63</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="201:9">
+      <idPartType>201</idPartType>
+      <value>10.65</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="201:10">
+      <idPartType>201</idPartType>
+      <value>36.19</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="201:11">
+      <idPartType>201</idPartType>
+      <value>56.67</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="201:12">
+      <idPartType>201</idPartType>
+      <value>50.1</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="201:13">
+      <idPartType>201</idPartType>
+      <value>46.05</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="201:14">
+      <idPartType>201</idPartType>
+      <value>90.11</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="201:15">
+      <idPartType>201</idPartType>
+      <value>41.82</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="201:16">
+      <idPartType>201</idPartType>
+      <value>30.93</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="201:17">
+      <idPartType>201</idPartType>
+      <value>44.11</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="201:18">
+      <idPartType>201</idPartType>
+      <value>65.58</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="201:19">
+      <idPartType>201</idPartType>
+      <value>93.86</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="201:20">
+      <idPartType>201</idPartType>
+      <value>41.74</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="201:21">
+      <idPartType>201</idPartType>
+      <value>6.96</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="201:22">
+      <idPartType>201</idPartType>
+      <value>97.96</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="201:23">
+      <idPartType>201</idPartType>
+      <value>29.84</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="201:24">
+      <idPartType>201</idPartType>
+      <value>10.36</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="201:25">
+      <idPartType>201</idPartType>
+      <value>72.18</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="201:26">
+      <idPartType>201</idPartType>
+      <value>85.29</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="201:27">
+      <idPartType>201</idPartType>
+      <value>10.97</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="201:28">
+      <idPartType>201</idPartType>
+      <value>99.25</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="201:29">
+      <idPartType>201</idPartType>
+      <value>4.12</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="201:30">
+      <idPartType>201</idPartType>
+      <value>14.76</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="201:31">
+      <idPartType>201</idPartType>
+      <value>57.03</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="201:32">
+      <idPartType>201</idPartType>
+      <value>48.19</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="201:33">
+      <idPartType>201</idPartType>
+      <value>9.98</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="201:34">
+      <idPartType>201</idPartType>
+      <value>16.67</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="201:35">
+      <idPartType>201</idPartType>
+      <value>25.63</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="201:36">
+      <idPartType>201</idPartType>
+      <value>3.46</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="201:37">
+      <idPartType>201</idPartType>
+      <value>50.73</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="201:38">
+      <idPartType>201</idPartType>
+      <value>88.61</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="201:39">
+      <idPartType>201</idPartType>
+      <value>50.07</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="201:40">
+      <idPartType>201</idPartType>
+      <value>1.37</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="201:41">
+      <idPartType>201</idPartType>
+      <value>84.13</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="201:42">
+      <idPartType>201</idPartType>
+      <value>50.87</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="201:43">
+      <idPartType>201</idPartType>
+      <value>3.74</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="201:44">
+      <idPartType>201</idPartType>
+      <value>40.06</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="201:45">
+      <idPartType>201</idPartType>
+      <value>72.76</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="201:46">
+      <idPartType>201</idPartType>
+      <value>66.42</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="201:47">
+      <idPartType>201</idPartType>
+      <value>17.01</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="201:48">
+      <idPartType>201</idPartType>
+      <value>99.16</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="201:49">
+      <idPartType>201</idPartType>
+      <value>78.01</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="201:50">
+      <idPartType>201</idPartType>
+      <value>56.92</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="201:51">
+      <idPartType>201</idPartType>
+      <value>72.61</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="201:52">
+      <idPartType>201</idPartType>
+      <value>50.13</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="201:53">
+      <idPartType>201</idPartType>
+      <value>47.03</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="201:54">
+      <idPartType>201</idPartType>
+      <value>77.43</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="201:55">
+      <idPartType>201</idPartType>
+      <value>7.92</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="201:56">
+      <idPartType>201</idPartType>
+      <value>87.98</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="201:57">
+      <idPartType>201</idPartType>
+      <value>56.15</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="201:58">
+      <idPartType>201</idPartType>
+      <value>45.33</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="201:59">
+      <idPartType>201</idPartType>
+      <value>47.79</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="201:60">
+      <idPartType>201</idPartType>
+      <value>29.83</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="201:61">
+      <idPartType>201</idPartType>
+      <value>66.35</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="201:62">
+      <idPartType>201</idPartType>
+      <value>8.11</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="201:63">
+      <idPartType>201</idPartType>
+      <value>25.72</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="201:64">
+      <idPartType>201</idPartType>
+      <value>84.47</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="201:65">
+      <idPartType>201</idPartType>
+      <value>56.3</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="201:66">
+      <idPartType>201</idPartType>
+      <value>44.8</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="201:67">
+      <idPartType>201</idPartType>
+      <value>48.6</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="201:68">
+      <idPartType>201</idPartType>
+      <value>44.87</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="201:69">
+      <idPartType>201</idPartType>
+      <value>50.3</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="201:70">
+      <idPartType>201</idPartType>
+      <value>28.9</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="201:71">
+      <idPartType>201</idPartType>
+      <value>51.54</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="201:72">
+      <idPartType>201</idPartType>
+      <value>81.32</value>
+      <dueDate>39</dueDate>
+    </part>
+    <part id="201:73">
+      <idPartType>201</idPartType>
+      <value>43.73</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="201:74">
+      <idPartType>201</idPartType>
+      <value>98.59</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="201:75">
+      <idPartType>201</idPartType>
+      <value>32.97</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="201:76">
+      <idPartType>201</idPartType>
+      <value>82.6</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="201:77">
+      <idPartType>201</idPartType>
+      <value>31.22</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="201:78">
+      <idPartType>201</idPartType>
+      <value>30.69</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="201:79">
+      <idPartType>201</idPartType>
+      <value>71.42</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="201:80">
+      <idPartType>201</idPartType>
+      <value>68.96</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="201:81">
+      <idPartType>201</idPartType>
+      <value>63.45</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="201:82">
+      <idPartType>201</idPartType>
+      <value>57.82</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="201:83">
+      <idPartType>201</idPartType>
+      <value>97.15</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="201:84">
+      <idPartType>201</idPartType>
+      <value>69.21</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="201:85">
+      <idPartType>201</idPartType>
+      <value>40.24</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="201:86">
+      <idPartType>201</idPartType>
+      <value>98.4</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="201:87">
+      <idPartType>201</idPartType>
+      <value>23.33</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="201:88">
+      <idPartType>201</idPartType>
+      <value>51.58</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="201:89">
+      <idPartType>201</idPartType>
+      <value>100.67</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="201:90">
+      <idPartType>201</idPartType>
+      <value>41.85</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="201:91">
+      <idPartType>201</idPartType>
+      <value>60.13</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="201:92">
+      <idPartType>201</idPartType>
+      <value>30.59</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="201:93">
+      <idPartType>201</idPartType>
+      <value>98.29</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="201:94">
+      <idPartType>201</idPartType>
+      <value>89.86</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="201:95">
+      <idPartType>201</idPartType>
+      <value>25.19</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="201:96">
+      <idPartType>201</idPartType>
+      <value>47.87</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="201:97">
+      <idPartType>201</idPartType>
+      <value>69.7</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="201:98">
+      <idPartType>201</idPartType>
+      <value>50.12</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="201:99">
+      <idPartType>201</idPartType>
+      <value>86.26</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="201:100">
+      <idPartType>201</idPartType>
+      <value>73.7</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="201:101">
+      <idPartType>201</idPartType>
+      <value>80.82</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="201:102">
+      <idPartType>201</idPartType>
+      <value>1.25</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="201:103">
+      <idPartType>201</idPartType>
+      <value>95.13</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="201:104">
+      <idPartType>201</idPartType>
+      <value>76.37</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="201:105">
+      <idPartType>201</idPartType>
+      <value>95.11</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="201:106">
+      <idPartType>201</idPartType>
+      <value>46.69</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="201:107">
+      <idPartType>201</idPartType>
+      <value>92.86</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="201:108">
+      <idPartType>201</idPartType>
+      <value>10.13</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="201:109">
+      <idPartType>201</idPartType>
+      <value>73.76</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="201:110">
+      <idPartType>201</idPartType>
+      <value>85.37</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="201:111">
+      <idPartType>201</idPartType>
+      <value>35.73</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="361:0">
+      <idPartType>361</idPartType>
+      <value>31.0</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="361:1">
+      <idPartType>361</idPartType>
+      <value>27.18</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="361:2">
+      <idPartType>361</idPartType>
+      <value>96.51</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="361:3">
+      <idPartType>361</idPartType>
+      <value>41.66</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="361:4">
+      <idPartType>361</idPartType>
+      <value>35.67</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="361:5">
+      <idPartType>361</idPartType>
+      <value>71.07</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="361:6">
+      <idPartType>361</idPartType>
+      <value>45.55</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="361:7">
+      <idPartType>361</idPartType>
+      <value>23.62</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="361:8">
+      <idPartType>361</idPartType>
+      <value>55.17</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="361:9">
+      <idPartType>361</idPartType>
+      <value>46.49</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="361:10">
+      <idPartType>361</idPartType>
+      <value>13.08</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="361:11">
+      <idPartType>361</idPartType>
+      <value>25.1</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="361:12">
+      <idPartType>361</idPartType>
+      <value>18.33</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="361:13">
+      <idPartType>361</idPartType>
+      <value>81.48</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="361:14">
+      <idPartType>361</idPartType>
+      <value>56.76</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="361:15">
+      <idPartType>361</idPartType>
+      <value>24.55</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="361:16">
+      <idPartType>361</idPartType>
+      <value>22.71</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="361:17">
+      <idPartType>361</idPartType>
+      <value>59.18</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="361:18">
+      <idPartType>361</idPartType>
+      <value>78.96</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="361:19">
+      <idPartType>361</idPartType>
+      <value>29.47</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="361:20">
+      <idPartType>361</idPartType>
+      <value>32.79</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="361:21">
+      <idPartType>361</idPartType>
+      <value>13.74</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="361:22">
+      <idPartType>361</idPartType>
+      <value>65.87</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="361:23">
+      <idPartType>361</idPartType>
+      <value>42.78</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="361:24">
+      <idPartType>361</idPartType>
+      <value>30.39</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="361:25">
+      <idPartType>361</idPartType>
+      <value>65.92</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="361:26">
+      <idPartType>361</idPartType>
+      <value>24.5</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="361:27">
+      <idPartType>361</idPartType>
+      <value>87.57</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="361:28">
+      <idPartType>361</idPartType>
+      <value>12.15</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="361:29">
+      <idPartType>361</idPartType>
+      <value>95.72</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="361:30">
+      <idPartType>361</idPartType>
+      <value>95.49</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="361:31">
+      <idPartType>361</idPartType>
+      <value>11.08</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="361:32">
+      <idPartType>361</idPartType>
+      <value>100.21</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="361:33">
+      <idPartType>361</idPartType>
+      <value>3.43</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="361:34">
+      <idPartType>361</idPartType>
+      <value>96.22</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="361:35">
+      <idPartType>361</idPartType>
+      <value>23.46</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="361:36">
+      <idPartType>361</idPartType>
+      <value>66.67</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="361:37">
+      <idPartType>361</idPartType>
+      <value>53.09</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="361:38">
+      <idPartType>361</idPartType>
+      <value>19.91</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="361:39">
+      <idPartType>361</idPartType>
+      <value>35.07</value>
+      <dueDate>31</dueDate>
+    </part>
+    <part id="361:40">
+      <idPartType>361</idPartType>
+      <value>80.03</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="361:41">
+      <idPartType>361</idPartType>
+      <value>7.27</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="361:42">
+      <idPartType>361</idPartType>
+      <value>13.57</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="361:43">
+      <idPartType>361</idPartType>
+      <value>41.13</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="361:44">
+      <idPartType>361</idPartType>
+      <value>46.19</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="361:45">
+      <idPartType>361</idPartType>
+      <value>28.05</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="361:46">
+      <idPartType>361</idPartType>
+      <value>97.93</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="361:47">
+      <idPartType>361</idPartType>
+      <value>21.75</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="361:48">
+      <idPartType>361</idPartType>
+      <value>18.24</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="361:49">
+      <idPartType>361</idPartType>
+      <value>29.24</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="361:50">
+      <idPartType>361</idPartType>
+      <value>2.62</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="361:51">
+      <idPartType>361</idPartType>
+      <value>17.75</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="361:52">
+      <idPartType>361</idPartType>
+      <value>95.28</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="361:53">
+      <idPartType>361</idPartType>
+      <value>57.96</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="361:54">
+      <idPartType>361</idPartType>
+      <value>35.24</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="361:55">
+      <idPartType>361</idPartType>
+      <value>48.34</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="361:56">
+      <idPartType>361</idPartType>
+      <value>72.4</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="361:57">
+      <idPartType>361</idPartType>
+      <value>61.6</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="361:58">
+      <idPartType>361</idPartType>
+      <value>6.65</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="361:59">
+      <idPartType>361</idPartType>
+      <value>30.12</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="361:60">
+      <idPartType>361</idPartType>
+      <value>70.82</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="361:61">
+      <idPartType>361</idPartType>
+      <value>56.87</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="361:62">
+      <idPartType>361</idPartType>
+      <value>8.89</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="361:63">
+      <idPartType>361</idPartType>
+      <value>62.53</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="361:64">
+      <idPartType>361</idPartType>
+      <value>92.54</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="361:65">
+      <idPartType>361</idPartType>
+      <value>73.42</value>
+      <dueDate>39</dueDate>
+    </part>
+    <part id="361:66">
+      <idPartType>361</idPartType>
+      <value>6.71</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="361:67">
+      <idPartType>361</idPartType>
+      <value>70.35</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="361:68">
+      <idPartType>361</idPartType>
+      <value>58.34</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="361:69">
+      <idPartType>361</idPartType>
+      <value>51.27</value>
+      <dueDate>31</dueDate>
+    </part>
+    <part id="361:70">
+      <idPartType>361</idPartType>
+      <value>18.23</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="361:71">
+      <idPartType>361</idPartType>
+      <value>50.03</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="361:72">
+      <idPartType>361</idPartType>
+      <value>97.88</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="361:73">
+      <idPartType>361</idPartType>
+      <value>52.1</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="361:74">
+      <idPartType>361</idPartType>
+      <value>40.62</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="361:75">
+      <idPartType>361</idPartType>
+      <value>93.75</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="361:76">
+      <idPartType>361</idPartType>
+      <value>37.05</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="361:77">
+      <idPartType>361</idPartType>
+      <value>13.39</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="361:78">
+      <idPartType>361</idPartType>
+      <value>30.2</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="361:79">
+      <idPartType>361</idPartType>
+      <value>59.13</value>
+      <dueDate>21</dueDate>
+    </part>
+    <part id="361:80">
+      <idPartType>361</idPartType>
+      <value>40.09</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="361:81">
+      <idPartType>361</idPartType>
+      <value>64.95</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="361:82">
+      <idPartType>361</idPartType>
+      <value>85.79</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="361:83">
+      <idPartType>361</idPartType>
+      <value>88.05</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="361:84">
+      <idPartType>361</idPartType>
+      <value>4.61</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="361:85">
+      <idPartType>361</idPartType>
+      <value>12.11</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="361:86">
+      <idPartType>361</idPartType>
+      <value>62.3</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="361:87">
+      <idPartType>361</idPartType>
+      <value>35.66</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="361:88">
+      <idPartType>361</idPartType>
+      <value>18.24</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="361:89">
+      <idPartType>361</idPartType>
+      <value>12.19</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="361:90">
+      <idPartType>361</idPartType>
+      <value>70.26</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="361:91">
+      <idPartType>361</idPartType>
+      <value>58.46</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="361:92">
+      <idPartType>361</idPartType>
+      <value>79.65</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="282:0">
+      <idPartType>282</idPartType>
+      <value>62.68</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="282:1">
+      <idPartType>282</idPartType>
+      <value>94.13</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="282:2">
+      <idPartType>282</idPartType>
+      <value>94.15</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="282:3">
+      <idPartType>282</idPartType>
+      <value>78.67</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="282:4">
+      <idPartType>282</idPartType>
+      <value>33.32</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="282:5">
+      <idPartType>282</idPartType>
+      <value>97.04</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="282:6">
+      <idPartType>282</idPartType>
+      <value>88.37</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="282:7">
+      <idPartType>282</idPartType>
+      <value>54.96</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="282:8">
+      <idPartType>282</idPartType>
+      <value>1.66</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="282:9">
+      <idPartType>282</idPartType>
+      <value>17.49</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="282:10">
+      <idPartType>282</idPartType>
+      <value>33.32</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="282:11">
+      <idPartType>282</idPartType>
+      <value>98.49</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="282:12">
+      <idPartType>282</idPartType>
+      <value>54.07</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="282:13">
+      <idPartType>282</idPartType>
+      <value>9.65</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="282:14">
+      <idPartType>282</idPartType>
+      <value>59.46</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="282:15">
+      <idPartType>282</idPartType>
+      <value>75.04</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="282:16">
+      <idPartType>282</idPartType>
+      <value>43.46</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="282:17">
+      <idPartType>282</idPartType>
+      <value>26.02</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="282:18">
+      <idPartType>282</idPartType>
+      <value>95.58</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="282:19">
+      <idPartType>282</idPartType>
+      <value>13.67</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="282:20">
+      <idPartType>282</idPartType>
+      <value>20.41</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="282:21">
+      <idPartType>282</idPartType>
+      <value>91.21</value>
+      <dueDate>21</dueDate>
+    </part>
+    <part id="282:22">
+      <idPartType>282</idPartType>
+      <value>98.92</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="282:23">
+      <idPartType>282</idPartType>
+      <value>60.39</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="282:24">
+      <idPartType>282</idPartType>
+      <value>89.0</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="282:25">
+      <idPartType>282</idPartType>
+      <value>8.68</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="282:26">
+      <idPartType>282</idPartType>
+      <value>70.89</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="282:27">
+      <idPartType>282</idPartType>
+      <value>11.68</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="282:28">
+      <idPartType>282</idPartType>
+      <value>60.16</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="282:29">
+      <idPartType>282</idPartType>
+      <value>75.86</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="282:30">
+      <idPartType>282</idPartType>
+      <value>64.41</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="282:31">
+      <idPartType>282</idPartType>
+      <value>95.36</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="282:32">
+      <idPartType>282</idPartType>
+      <value>55.31</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="282:33">
+      <idPartType>282</idPartType>
+      <value>45.93</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="282:34">
+      <idPartType>282</idPartType>
+      <value>55.79</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="282:35">
+      <idPartType>282</idPartType>
+      <value>64.65</value>
+      <dueDate>39</dueDate>
+    </part>
+    <part id="282:36">
+      <idPartType>282</idPartType>
+      <value>40.83</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="282:37">
+      <idPartType>282</idPartType>
+      <value>59.68</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="282:38">
+      <idPartType>282</idPartType>
+      <value>79.9</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="282:39">
+      <idPartType>282</idPartType>
+      <value>38.83</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="282:40">
+      <idPartType>282</idPartType>
+      <value>78.17</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="282:41">
+      <idPartType>282</idPartType>
+      <value>14.33</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="282:42">
+      <idPartType>282</idPartType>
+      <value>97.92</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="282:43">
+      <idPartType>282</idPartType>
+      <value>31.8</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="282:44">
+      <idPartType>282</idPartType>
+      <value>54.88</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="282:45">
+      <idPartType>282</idPartType>
+      <value>28.32</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="282:46">
+      <idPartType>282</idPartType>
+      <value>97.31</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="282:47">
+      <idPartType>282</idPartType>
+      <value>5.29</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="282:48">
+      <idPartType>282</idPartType>
+      <value>6.95</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="282:49">
+      <idPartType>282</idPartType>
+      <value>83.88</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="282:50">
+      <idPartType>282</idPartType>
+      <value>85.41</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="282:51">
+      <idPartType>282</idPartType>
+      <value>9.63</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="282:52">
+      <idPartType>282</idPartType>
+      <value>60.78</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="282:53">
+      <idPartType>282</idPartType>
+      <value>70.74</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="282:54">
+      <idPartType>282</idPartType>
+      <value>80.11</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="282:55">
+      <idPartType>282</idPartType>
+      <value>99.83</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="282:56">
+      <idPartType>282</idPartType>
+      <value>62.39</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="282:57">
+      <idPartType>282</idPartType>
+      <value>42.99</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="282:58">
+      <idPartType>282</idPartType>
+      <value>78.87</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="282:59">
+      <idPartType>282</idPartType>
+      <value>55.0</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="282:60">
+      <idPartType>282</idPartType>
+      <value>39.23</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="282:61">
+      <idPartType>282</idPartType>
+      <value>22.25</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="282:62">
+      <idPartType>282</idPartType>
+      <value>85.56</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="282:63">
+      <idPartType>282</idPartType>
+      <value>73.02</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="282:64">
+      <idPartType>282</idPartType>
+      <value>64.35</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="282:65">
+      <idPartType>282</idPartType>
+      <value>8.15</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="282:66">
+      <idPartType>282</idPartType>
+      <value>31.45</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="282:67">
+      <idPartType>282</idPartType>
+      <value>49.57</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="282:68">
+      <idPartType>282</idPartType>
+      <value>90.13</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="282:69">
+      <idPartType>282</idPartType>
+      <value>75.98</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="282:70">
+      <idPartType>282</idPartType>
+      <value>62.19</value>
+      <dueDate>39</dueDate>
+    </part>
+    <part id="282:71">
+      <idPartType>282</idPartType>
+      <value>90.93</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="282:72">
+      <idPartType>282</idPartType>
+      <value>56.83</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="282:73">
+      <idPartType>282</idPartType>
+      <value>69.71</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="282:74">
+      <idPartType>282</idPartType>
+      <value>99.6</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="282:75">
+      <idPartType>282</idPartType>
+      <value>14.45</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="282:76">
+      <idPartType>282</idPartType>
+      <value>95.43</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="282:77">
+      <idPartType>282</idPartType>
+      <value>19.48</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="282:78">
+      <idPartType>282</idPartType>
+      <value>78.48</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="282:79">
+      <idPartType>282</idPartType>
+      <value>91.92</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="282:80">
+      <idPartType>282</idPartType>
+      <value>62.18</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="282:81">
+      <idPartType>282</idPartType>
+      <value>91.45</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="282:82">
+      <idPartType>282</idPartType>
+      <value>13.74</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="282:83">
+      <idPartType>282</idPartType>
+      <value>21.13</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="282:84">
+      <idPartType>282</idPartType>
+      <value>7.85</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="282:85">
+      <idPartType>282</idPartType>
+      <value>92.69</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="282:86">
+      <idPartType>282</idPartType>
+      <value>57.5</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="282:87">
+      <idPartType>282</idPartType>
+      <value>24.98</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="282:88">
+      <idPartType>282</idPartType>
+      <value>86.02</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="282:89">
+      <idPartType>282</idPartType>
+      <value>19.26</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="282:90">
+      <idPartType>282</idPartType>
+      <value>53.72</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="282:91">
+      <idPartType>282</idPartType>
+      <value>78.97</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="282:92">
+      <idPartType>282</idPartType>
+      <value>94.27</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="282:93">
+      <idPartType>282</idPartType>
+      <value>25.08</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="282:94">
+      <idPartType>282</idPartType>
+      <value>9.98</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="282:95">
+      <idPartType>282</idPartType>
+      <value>34.35</value>
+      <dueDate>21</dueDate>
+    </part>
+    <part id="282:96">
+      <idPartType>282</idPartType>
+      <value>67.42</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="282:97">
+      <idPartType>282</idPartType>
+      <value>64.42</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="282:98">
+      <idPartType>282</idPartType>
+      <value>59.31</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="26:0">
+      <idPartType>26</idPartType>
+      <value>10.06</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="26:1">
+      <idPartType>26</idPartType>
+      <value>65.53</value>
+      <dueDate>21</dueDate>
+    </part>
+    <part id="26:2">
+      <idPartType>26</idPartType>
+      <value>92.95</value>
+      <dueDate>31</dueDate>
+    </part>
+    <part id="26:3">
+      <idPartType>26</idPartType>
+      <value>36.25</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="26:4">
+      <idPartType>26</idPartType>
+      <value>72.12</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="26:5">
+      <idPartType>26</idPartType>
+      <value>27.09</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="26:6">
+      <idPartType>26</idPartType>
+      <value>8.59</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="26:7">
+      <idPartType>26</idPartType>
+      <value>100.87</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="26:8">
+      <idPartType>26</idPartType>
+      <value>50.75</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="26:9">
+      <idPartType>26</idPartType>
+      <value>62.41</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="26:10">
+      <idPartType>26</idPartType>
+      <value>43.01</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="26:11">
+      <idPartType>26</idPartType>
+      <value>3.75</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="26:12">
+      <idPartType>26</idPartType>
+      <value>84.16</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="26:13">
+      <idPartType>26</idPartType>
+      <value>8.74</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="26:14">
+      <idPartType>26</idPartType>
+      <value>31.16</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="26:15">
+      <idPartType>26</idPartType>
+      <value>38.65</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="26:16">
+      <idPartType>26</idPartType>
+      <value>43.2</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="26:17">
+      <idPartType>26</idPartType>
+      <value>39.09</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="26:18">
+      <idPartType>26</idPartType>
+      <value>55.56</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="26:19">
+      <idPartType>26</idPartType>
+      <value>3.45</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="26:20">
+      <idPartType>26</idPartType>
+      <value>25.58</value>
+      <dueDate>39</dueDate>
+    </part>
+    <part id="26:21">
+      <idPartType>26</idPartType>
+      <value>34.93</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="26:22">
+      <idPartType>26</idPartType>
+      <value>85.33</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="26:23">
+      <idPartType>26</idPartType>
+      <value>13.48</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="26:24">
+      <idPartType>26</idPartType>
+      <value>2.34</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="26:25">
+      <idPartType>26</idPartType>
+      <value>92.13</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="26:26">
+      <idPartType>26</idPartType>
+      <value>69.37</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="26:27">
+      <idPartType>26</idPartType>
+      <value>43.85</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="26:28">
+      <idPartType>26</idPartType>
+      <value>19.23</value>
+      <dueDate>31</dueDate>
+    </part>
+    <part id="26:29">
+      <idPartType>26</idPartType>
+      <value>10.37</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="26:30">
+      <idPartType>26</idPartType>
+      <value>46.32</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="26:31">
+      <idPartType>26</idPartType>
+      <value>33.44</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="26:32">
+      <idPartType>26</idPartType>
+      <value>61.84</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="26:33">
+      <idPartType>26</idPartType>
+      <value>23.44</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="26:34">
+      <idPartType>26</idPartType>
+      <value>61.35</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="26:35">
+      <idPartType>26</idPartType>
+      <value>56.16</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="26:36">
+      <idPartType>26</idPartType>
+      <value>75.21</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="26:37">
+      <idPartType>26</idPartType>
+      <value>100.6</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="26:38">
+      <idPartType>26</idPartType>
+      <value>24.66</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="26:39">
+      <idPartType>26</idPartType>
+      <value>53.97</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="26:40">
+      <idPartType>26</idPartType>
+      <value>18.17</value>
+      <dueDate>39</dueDate>
+    </part>
+    <part id="26:41">
+      <idPartType>26</idPartType>
+      <value>100.96</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="26:42">
+      <idPartType>26</idPartType>
+      <value>66.41</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="26:43">
+      <idPartType>26</idPartType>
+      <value>58.77</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="26:44">
+      <idPartType>26</idPartType>
+      <value>40.73</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="26:45">
+      <idPartType>26</idPartType>
+      <value>93.98</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="26:46">
+      <idPartType>26</idPartType>
+      <value>78.45</value>
+      <dueDate>21</dueDate>
+    </part>
+    <part id="26:47">
+      <idPartType>26</idPartType>
+      <value>89.89</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="26:48">
+      <idPartType>26</idPartType>
+      <value>3.93</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="26:49">
+      <idPartType>26</idPartType>
+      <value>90.18</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="26:50">
+      <idPartType>26</idPartType>
+      <value>38.02</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="26:51">
+      <idPartType>26</idPartType>
+      <value>62.6</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="26:52">
+      <idPartType>26</idPartType>
+      <value>47.71</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="26:53">
+      <idPartType>26</idPartType>
+      <value>18.99</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="26:54">
+      <idPartType>26</idPartType>
+      <value>71.49</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="26:55">
+      <idPartType>26</idPartType>
+      <value>49.03</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="26:56">
+      <idPartType>26</idPartType>
+      <value>30.79</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="26:57">
+      <idPartType>26</idPartType>
+      <value>73.56</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="26:58">
+      <idPartType>26</idPartType>
+      <value>85.78</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="26:59">
+      <idPartType>26</idPartType>
+      <value>92.03</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="26:60">
+      <idPartType>26</idPartType>
+      <value>70.4</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="26:61">
+      <idPartType>26</idPartType>
+      <value>37.45</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="26:62">
+      <idPartType>26</idPartType>
+      <value>9.11</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="26:63">
+      <idPartType>26</idPartType>
+      <value>37.04</value>
+      <dueDate>31</dueDate>
+    </part>
+    <part id="26:64">
+      <idPartType>26</idPartType>
+      <value>48.21</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="26:65">
+      <idPartType>26</idPartType>
+      <value>53.02</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="26:66">
+      <idPartType>26</idPartType>
+      <value>85.14</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="26:67">
+      <idPartType>26</idPartType>
+      <value>48.75</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="26:68">
+      <idPartType>26</idPartType>
+      <value>97.63</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="26:69">
+      <idPartType>26</idPartType>
+      <value>67.06</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="26:70">
+      <idPartType>26</idPartType>
+      <value>40.2</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="26:71">
+      <idPartType>26</idPartType>
+      <value>53.02</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="26:72">
+      <idPartType>26</idPartType>
+      <value>67.19</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="26:73">
+      <idPartType>26</idPartType>
+      <value>43.32</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="26:74">
+      <idPartType>26</idPartType>
+      <value>34.29</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="26:75">
+      <idPartType>26</idPartType>
+      <value>57.34</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="26:76">
+      <idPartType>26</idPartType>
+      <value>62.43</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="26:77">
+      <idPartType>26</idPartType>
+      <value>4.11</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="26:78">
+      <idPartType>26</idPartType>
+      <value>42.51</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="26:79">
+      <idPartType>26</idPartType>
+      <value>74.28</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="26:80">
+      <idPartType>26</idPartType>
+      <value>97.7</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="26:81">
+      <idPartType>26</idPartType>
+      <value>11.15</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="26:82">
+      <idPartType>26</idPartType>
+      <value>35.3</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="26:83">
+      <idPartType>26</idPartType>
+      <value>2.9</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="26:84">
+      <idPartType>26</idPartType>
+      <value>58.04</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="26:85">
+      <idPartType>26</idPartType>
+      <value>18.71</value>
+      <dueDate>39</dueDate>
+    </part>
+    <part id="26:86">
+      <idPartType>26</idPartType>
+      <value>9.01</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="26:87">
+      <idPartType>26</idPartType>
+      <value>16.99</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="26:88">
+      <idPartType>26</idPartType>
+      <value>45.25</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="26:89">
+      <idPartType>26</idPartType>
+      <value>96.09</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="26:90">
+      <idPartType>26</idPartType>
+      <value>100.69</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="26:91">
+      <idPartType>26</idPartType>
+      <value>1.43</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="26:92">
+      <idPartType>26</idPartType>
+      <value>1.41</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="26:93">
+      <idPartType>26</idPartType>
+      <value>81.04</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="26:94">
+      <idPartType>26</idPartType>
+      <value>25.08</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="26:95">
+      <idPartType>26</idPartType>
+      <value>57.44</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="26:96">
+      <idPartType>26</idPartType>
+      <value>5.46</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="26:97">
+      <idPartType>26</idPartType>
+      <value>65.22</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="26:98">
+      <idPartType>26</idPartType>
+      <value>32.24</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="26:99">
+      <idPartType>26</idPartType>
+      <value>33.68</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="26:100">
+      <idPartType>26</idPartType>
+      <value>84.86</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="26:101">
+      <idPartType>26</idPartType>
+      <value>47.49</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="26:102">
+      <idPartType>26</idPartType>
+      <value>70.98</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="332:0">
+      <idPartType>332</idPartType>
+      <value>5.36</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="332:1">
+      <idPartType>332</idPartType>
+      <value>85.7</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="332:2">
+      <idPartType>332</idPartType>
+      <value>3.46</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="332:3">
+      <idPartType>332</idPartType>
+      <value>86.61</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="332:4">
+      <idPartType>332</idPartType>
+      <value>22.48</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="332:5">
+      <idPartType>332</idPartType>
+      <value>82.86</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="332:6">
+      <idPartType>332</idPartType>
+      <value>90.25</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="332:7">
+      <idPartType>332</idPartType>
+      <value>99.74</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="332:8">
+      <idPartType>332</idPartType>
+      <value>37.71</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="332:9">
+      <idPartType>332</idPartType>
+      <value>70.31</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="332:10">
+      <idPartType>332</idPartType>
+      <value>25.98</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="332:11">
+      <idPartType>332</idPartType>
+      <value>31.82</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="332:12">
+      <idPartType>332</idPartType>
+      <value>42.23</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="332:13">
+      <idPartType>332</idPartType>
+      <value>53.9</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="332:14">
+      <idPartType>332</idPartType>
+      <value>93.37</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="332:15">
+      <idPartType>332</idPartType>
+      <value>28.93</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="332:16">
+      <idPartType>332</idPartType>
+      <value>26.89</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="332:17">
+      <idPartType>332</idPartType>
+      <value>29.77</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="332:18">
+      <idPartType>332</idPartType>
+      <value>17.98</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="332:19">
+      <idPartType>332</idPartType>
+      <value>10.22</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="332:20">
+      <idPartType>332</idPartType>
+      <value>17.34</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="332:21">
+      <idPartType>332</idPartType>
+      <value>97.71</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="332:22">
+      <idPartType>332</idPartType>
+      <value>61.31</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="332:23">
+      <idPartType>332</idPartType>
+      <value>44.45</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="332:24">
+      <idPartType>332</idPartType>
+      <value>32.68</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="332:25">
+      <idPartType>332</idPartType>
+      <value>55.23</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="332:26">
+      <idPartType>332</idPartType>
+      <value>60.45</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="332:27">
+      <idPartType>332</idPartType>
+      <value>56.63</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="332:28">
+      <idPartType>332</idPartType>
+      <value>93.91</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="332:29">
+      <idPartType>332</idPartType>
+      <value>94.52</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="332:30">
+      <idPartType>332</idPartType>
+      <value>94.66</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="332:31">
+      <idPartType>332</idPartType>
+      <value>46.25</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="332:32">
+      <idPartType>332</idPartType>
+      <value>71.91</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="332:33">
+      <idPartType>332</idPartType>
+      <value>77.76</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="332:34">
+      <idPartType>332</idPartType>
+      <value>87.81</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="332:35">
+      <idPartType>332</idPartType>
+      <value>75.83</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="332:36">
+      <idPartType>332</idPartType>
+      <value>55.46</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="332:37">
+      <idPartType>332</idPartType>
+      <value>67.41</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="332:38">
+      <idPartType>332</idPartType>
+      <value>79.13</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="332:39">
+      <idPartType>332</idPartType>
+      <value>69.59</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="332:40">
+      <idPartType>332</idPartType>
+      <value>33.83</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="332:41">
+      <idPartType>332</idPartType>
+      <value>6.13</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="332:42">
+      <idPartType>332</idPartType>
+      <value>45.67</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="332:43">
+      <idPartType>332</idPartType>
+      <value>60.24</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="332:44">
+      <idPartType>332</idPartType>
+      <value>100.25</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="332:45">
+      <idPartType>332</idPartType>
+      <value>68.93</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="332:46">
+      <idPartType>332</idPartType>
+      <value>11.35</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="332:47">
+      <idPartType>332</idPartType>
+      <value>90.78</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="332:48">
+      <idPartType>332</idPartType>
+      <value>72.39</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="332:49">
+      <idPartType>332</idPartType>
+      <value>88.78</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="332:50">
+      <idPartType>332</idPartType>
+      <value>73.13</value>
+      <dueDate>31</dueDate>
+    </part>
+    <part id="332:51">
+      <idPartType>332</idPartType>
+      <value>27.93</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="332:52">
+      <idPartType>332</idPartType>
+      <value>2.65</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="332:53">
+      <idPartType>332</idPartType>
+      <value>100.97</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="332:54">
+      <idPartType>332</idPartType>
+      <value>45.57</value>
+      <dueDate>31</dueDate>
+    </part>
+    <part id="332:55">
+      <idPartType>332</idPartType>
+      <value>73.85</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="332:56">
+      <idPartType>332</idPartType>
+      <value>79.74</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="332:57">
+      <idPartType>332</idPartType>
+      <value>73.88</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="332:58">
+      <idPartType>332</idPartType>
+      <value>24.66</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="332:59">
+      <idPartType>332</idPartType>
+      <value>81.75</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="332:60">
+      <idPartType>332</idPartType>
+      <value>46.55</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="332:61">
+      <idPartType>332</idPartType>
+      <value>31.16</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="332:62">
+      <idPartType>332</idPartType>
+      <value>90.89</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="332:63">
+      <idPartType>332</idPartType>
+      <value>33.82</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="332:64">
+      <idPartType>332</idPartType>
+      <value>26.84</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="332:65">
+      <idPartType>332</idPartType>
+      <value>6.89</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="332:66">
+      <idPartType>332</idPartType>
+      <value>71.88</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="332:67">
+      <idPartType>332</idPartType>
+      <value>32.84</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="332:68">
+      <idPartType>332</idPartType>
+      <value>42.69</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="332:69">
+      <idPartType>332</idPartType>
+      <value>70.47</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="332:70">
+      <idPartType>332</idPartType>
+      <value>18.55</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="332:71">
+      <idPartType>332</idPartType>
+      <value>83.18</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="332:72">
+      <idPartType>332</idPartType>
+      <value>49.32</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="332:73">
+      <idPartType>332</idPartType>
+      <value>67.12</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="332:74">
+      <idPartType>332</idPartType>
+      <value>84.93</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="332:75">
+      <idPartType>332</idPartType>
+      <value>96.75</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="332:76">
+      <idPartType>332</idPartType>
+      <value>25.75</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="332:77">
+      <idPartType>332</idPartType>
+      <value>24.54</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="332:78">
+      <idPartType>332</idPartType>
+      <value>52.78</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="332:79">
+      <idPartType>332</idPartType>
+      <value>91.47</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="332:80">
+      <idPartType>332</idPartType>
+      <value>56.72</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="332:81">
+      <idPartType>332</idPartType>
+      <value>3.86</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="332:82">
+      <idPartType>332</idPartType>
+      <value>87.03</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="332:83">
+      <idPartType>332</idPartType>
+      <value>56.49</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="332:84">
+      <idPartType>332</idPartType>
+      <value>69.88</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="332:85">
+      <idPartType>332</idPartType>
+      <value>26.63</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="332:86">
+      <idPartType>332</idPartType>
+      <value>17.35</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="332:87">
+      <idPartType>332</idPartType>
+      <value>22.44</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="332:88">
+      <idPartType>332</idPartType>
+      <value>54.4</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="332:89">
+      <idPartType>332</idPartType>
+      <value>88.76</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="332:90">
+      <idPartType>332</idPartType>
+      <value>4.0</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="332:91">
+      <idPartType>332</idPartType>
+      <value>95.26</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="332:92">
+      <idPartType>332</idPartType>
+      <value>64.12</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="332:93">
+      <idPartType>332</idPartType>
+      <value>1.83</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="332:94">
+      <idPartType>332</idPartType>
+      <value>92.97</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="332:95">
+      <idPartType>332</idPartType>
+      <value>20.22</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="332:96">
+      <idPartType>332</idPartType>
+      <value>86.23</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="332:97">
+      <idPartType>332</idPartType>
+      <value>53.79</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="332:98">
+      <idPartType>332</idPartType>
+      <value>93.05</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="332:99">
+      <idPartType>332</idPartType>
+      <value>31.69</value>
+      <dueDate>31</dueDate>
+    </part>
+    <part id="332:100">
+      <idPartType>332</idPartType>
+      <value>50.49</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="332:101">
+      <idPartType>332</idPartType>
+      <value>100.75</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="332:102">
+      <idPartType>332</idPartType>
+      <value>7.68</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="110:0">
+      <idPartType>110</idPartType>
+      <value>94.36</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="110:1">
+      <idPartType>110</idPartType>
+      <value>35.86</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="110:2">
+      <idPartType>110</idPartType>
+      <value>33.84</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="110:3">
+      <idPartType>110</idPartType>
+      <value>32.3</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="110:4">
+      <idPartType>110</idPartType>
+      <value>42.77</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="110:5">
+      <idPartType>110</idPartType>
+      <value>49.3</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="110:6">
+      <idPartType>110</idPartType>
+      <value>76.97</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="110:7">
+      <idPartType>110</idPartType>
+      <value>34.37</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="110:8">
+      <idPartType>110</idPartType>
+      <value>4.21</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="110:9">
+      <idPartType>110</idPartType>
+      <value>62.19</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="110:10">
+      <idPartType>110</idPartType>
+      <value>79.87</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="110:11">
+      <idPartType>110</idPartType>
+      <value>83.76</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="110:12">
+      <idPartType>110</idPartType>
+      <value>33.07</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="110:13">
+      <idPartType>110</idPartType>
+      <value>76.23</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="110:14">
+      <idPartType>110</idPartType>
+      <value>64.63</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="110:15">
+      <idPartType>110</idPartType>
+      <value>5.35</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="110:16">
+      <idPartType>110</idPartType>
+      <value>65.46</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="110:17">
+      <idPartType>110</idPartType>
+      <value>92.78</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="110:18">
+      <idPartType>110</idPartType>
+      <value>51.44</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="110:19">
+      <idPartType>110</idPartType>
+      <value>7.99</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="110:20">
+      <idPartType>110</idPartType>
+      <value>5.11</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="110:21">
+      <idPartType>110</idPartType>
+      <value>96.19</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="110:22">
+      <idPartType>110</idPartType>
+      <value>42.25</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="110:23">
+      <idPartType>110</idPartType>
+      <value>74.5</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="110:24">
+      <idPartType>110</idPartType>
+      <value>95.89</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="110:25">
+      <idPartType>110</idPartType>
+      <value>55.93</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="110:26">
+      <idPartType>110</idPartType>
+      <value>38.45</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="110:27">
+      <idPartType>110</idPartType>
+      <value>9.23</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="110:28">
+      <idPartType>110</idPartType>
+      <value>3.26</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="110:29">
+      <idPartType>110</idPartType>
+      <value>57.78</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="110:30">
+      <idPartType>110</idPartType>
+      <value>44.9</value>
+      <dueDate>21</dueDate>
+    </part>
+    <part id="110:31">
+      <idPartType>110</idPartType>
+      <value>62.06</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="110:32">
+      <idPartType>110</idPartType>
+      <value>83.4</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="110:33">
+      <idPartType>110</idPartType>
+      <value>98.7</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="110:34">
+      <idPartType>110</idPartType>
+      <value>98.46</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="110:35">
+      <idPartType>110</idPartType>
+      <value>23.85</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="110:36">
+      <idPartType>110</idPartType>
+      <value>42.95</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="110:37">
+      <idPartType>110</idPartType>
+      <value>11.36</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="110:38">
+      <idPartType>110</idPartType>
+      <value>10.18</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="110:39">
+      <idPartType>110</idPartType>
+      <value>6.62</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="110:40">
+      <idPartType>110</idPartType>
+      <value>97.54</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="110:41">
+      <idPartType>110</idPartType>
+      <value>13.87</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="110:42">
+      <idPartType>110</idPartType>
+      <value>30.65</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="110:43">
+      <idPartType>110</idPartType>
+      <value>33.93</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="110:44">
+      <idPartType>110</idPartType>
+      <value>98.59</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="110:45">
+      <idPartType>110</idPartType>
+      <value>31.39</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="110:46">
+      <idPartType>110</idPartType>
+      <value>13.3</value>
+      <dueDate>21</dueDate>
+    </part>
+    <part id="110:47">
+      <idPartType>110</idPartType>
+      <value>22.07</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="110:48">
+      <idPartType>110</idPartType>
+      <value>75.54</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="110:49">
+      <idPartType>110</idPartType>
+      <value>84.47</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="110:50">
+      <idPartType>110</idPartType>
+      <value>37.92</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="110:51">
+      <idPartType>110</idPartType>
+      <value>91.16</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="110:52">
+      <idPartType>110</idPartType>
+      <value>6.97</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="110:53">
+      <idPartType>110</idPartType>
+      <value>41.39</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="110:54">
+      <idPartType>110</idPartType>
+      <value>63.75</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="110:55">
+      <idPartType>110</idPartType>
+      <value>15.38</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="110:56">
+      <idPartType>110</idPartType>
+      <value>95.51</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="110:57">
+      <idPartType>110</idPartType>
+      <value>48.62</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="110:58">
+      <idPartType>110</idPartType>
+      <value>56.83</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="110:59">
+      <idPartType>110</idPartType>
+      <value>73.66</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="110:60">
+      <idPartType>110</idPartType>
+      <value>47.61</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="110:61">
+      <idPartType>110</idPartType>
+      <value>76.63</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="110:62">
+      <idPartType>110</idPartType>
+      <value>99.29</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="110:63">
+      <idPartType>110</idPartType>
+      <value>63.39</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="110:64">
+      <idPartType>110</idPartType>
+      <value>3.24</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="110:65">
+      <idPartType>110</idPartType>
+      <value>91.88</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="110:66">
+      <idPartType>110</idPartType>
+      <value>59.61</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="110:67">
+      <idPartType>110</idPartType>
+      <value>70.31</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="110:68">
+      <idPartType>110</idPartType>
+      <value>89.41</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="110:69">
+      <idPartType>110</idPartType>
+      <value>15.77</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="110:70">
+      <idPartType>110</idPartType>
+      <value>24.31</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="110:71">
+      <idPartType>110</idPartType>
+      <value>73.22</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="110:72">
+      <idPartType>110</idPartType>
+      <value>84.42</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="110:73">
+      <idPartType>110</idPartType>
+      <value>87.45</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="110:74">
+      <idPartType>110</idPartType>
+      <value>54.07</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="110:75">
+      <idPartType>110</idPartType>
+      <value>93.71</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="110:76">
+      <idPartType>110</idPartType>
+      <value>40.87</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="110:77">
+      <idPartType>110</idPartType>
+      <value>68.33</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="110:78">
+      <idPartType>110</idPartType>
+      <value>96.56</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="110:79">
+      <idPartType>110</idPartType>
+      <value>62.22</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="110:80">
+      <idPartType>110</idPartType>
+      <value>71.46</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="110:81">
+      <idPartType>110</idPartType>
+      <value>27.34</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="110:82">
+      <idPartType>110</idPartType>
+      <value>25.75</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="110:83">
+      <idPartType>110</idPartType>
+      <value>63.29</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="110:84">
+      <idPartType>110</idPartType>
+      <value>12.91</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="110:85">
+      <idPartType>110</idPartType>
+      <value>19.87</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="110:86">
+      <idPartType>110</idPartType>
+      <value>70.89</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="110:87">
+      <idPartType>110</idPartType>
+      <value>88.66</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="110:88">
+      <idPartType>110</idPartType>
+      <value>43.39</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="110:89">
+      <idPartType>110</idPartType>
+      <value>19.87</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="110:90">
+      <idPartType>110</idPartType>
+      <value>81.91</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="110:91">
+      <idPartType>110</idPartType>
+      <value>75.6</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="110:92">
+      <idPartType>110</idPartType>
+      <value>95.28</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="110:93">
+      <idPartType>110</idPartType>
+      <value>10.75</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="110:94">
+      <idPartType>110</idPartType>
+      <value>59.97</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="110:95">
+      <idPartType>110</idPartType>
+      <value>44.12</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="110:96">
+      <idPartType>110</idPartType>
+      <value>18.38</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="110:97">
+      <idPartType>110</idPartType>
+      <value>70.1</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="94:0">
+      <idPartType>94</idPartType>
+      <value>69.34</value>
+      <dueDate>39</dueDate>
+    </part>
+    <part id="94:1">
+      <idPartType>94</idPartType>
+      <value>87.81</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="94:2">
+      <idPartType>94</idPartType>
+      <value>62.49</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="94:3">
+      <idPartType>94</idPartType>
+      <value>58.58</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="94:4">
+      <idPartType>94</idPartType>
+      <value>69.96</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="94:5">
+      <idPartType>94</idPartType>
+      <value>82.72</value>
+      <dueDate>31</dueDate>
+    </part>
+    <part id="94:6">
+      <idPartType>94</idPartType>
+      <value>51.4</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="94:7">
+      <idPartType>94</idPartType>
+      <value>11.14</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="94:8">
+      <idPartType>94</idPartType>
+      <value>46.63</value>
+      <dueDate>39</dueDate>
+    </part>
+    <part id="94:9">
+      <idPartType>94</idPartType>
+      <value>84.83</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="94:10">
+      <idPartType>94</idPartType>
+      <value>61.47</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="94:11">
+      <idPartType>94</idPartType>
+      <value>26.98</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="94:12">
+      <idPartType>94</idPartType>
+      <value>14.2</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="94:13">
+      <idPartType>94</idPartType>
+      <value>10.93</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="94:14">
+      <idPartType>94</idPartType>
+      <value>34.53</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="94:15">
+      <idPartType>94</idPartType>
+      <value>13.97</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="94:16">
+      <idPartType>94</idPartType>
+      <value>98.15</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="94:17">
+      <idPartType>94</idPartType>
+      <value>78.08</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="94:18">
+      <idPartType>94</idPartType>
+      <value>91.53</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="94:19">
+      <idPartType>94</idPartType>
+      <value>96.07</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="94:20">
+      <idPartType>94</idPartType>
+      <value>99.79</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="94:21">
+      <idPartType>94</idPartType>
+      <value>94.55</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="94:22">
+      <idPartType>94</idPartType>
+      <value>53.91</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="94:23">
+      <idPartType>94</idPartType>
+      <value>73.49</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="94:24">
+      <idPartType>94</idPartType>
+      <value>79.21</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="94:25">
+      <idPartType>94</idPartType>
+      <value>97.15</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="94:26">
+      <idPartType>94</idPartType>
+      <value>67.35</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="94:27">
+      <idPartType>94</idPartType>
+      <value>1.79</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="94:28">
+      <idPartType>94</idPartType>
+      <value>20.89</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="94:29">
+      <idPartType>94</idPartType>
+      <value>56.71</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="94:30">
+      <idPartType>94</idPartType>
+      <value>86.21</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="94:31">
+      <idPartType>94</idPartType>
+      <value>47.24</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="94:32">
+      <idPartType>94</idPartType>
+      <value>81.85</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="94:33">
+      <idPartType>94</idPartType>
+      <value>82.08</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="94:34">
+      <idPartType>94</idPartType>
+      <value>57.65</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="94:35">
+      <idPartType>94</idPartType>
+      <value>82.34</value>
+      <dueDate>31</dueDate>
+    </part>
+    <part id="94:36">
+      <idPartType>94</idPartType>
+      <value>78.07</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="94:37">
+      <idPartType>94</idPartType>
+      <value>42.49</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="94:38">
+      <idPartType>94</idPartType>
+      <value>17.85</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="94:39">
+      <idPartType>94</idPartType>
+      <value>11.84</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="94:40">
+      <idPartType>94</idPartType>
+      <value>7.38</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="94:41">
+      <idPartType>94</idPartType>
+      <value>65.61</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="94:42">
+      <idPartType>94</idPartType>
+      <value>16.47</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="94:43">
+      <idPartType>94</idPartType>
+      <value>100.7</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="94:44">
+      <idPartType>94</idPartType>
+      <value>75.46</value>
+      <dueDate>21</dueDate>
+    </part>
+    <part id="94:45">
+      <idPartType>94</idPartType>
+      <value>11.7</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="94:46">
+      <idPartType>94</idPartType>
+      <value>42.55</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="94:47">
+      <idPartType>94</idPartType>
+      <value>99.71</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="94:48">
+      <idPartType>94</idPartType>
+      <value>25.08</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="94:49">
+      <idPartType>94</idPartType>
+      <value>50.36</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="94:50">
+      <idPartType>94</idPartType>
+      <value>69.28</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="94:51">
+      <idPartType>94</idPartType>
+      <value>1.96</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="94:52">
+      <idPartType>94</idPartType>
+      <value>27.15</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="94:53">
+      <idPartType>94</idPartType>
+      <value>91.79</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="94:54">
+      <idPartType>94</idPartType>
+      <value>37.06</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="94:55">
+      <idPartType>94</idPartType>
+      <value>85.91</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="94:56">
+      <idPartType>94</idPartType>
+      <value>86.75</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="94:57">
+      <idPartType>94</idPartType>
+      <value>36.02</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="94:58">
+      <idPartType>94</idPartType>
+      <value>84.33</value>
+      <dueDate>39</dueDate>
+    </part>
+    <part id="94:59">
+      <idPartType>94</idPartType>
+      <value>13.61</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="94:60">
+      <idPartType>94</idPartType>
+      <value>30.3</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="94:61">
+      <idPartType>94</idPartType>
+      <value>77.76</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="94:62">
+      <idPartType>94</idPartType>
+      <value>31.1</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="94:63">
+      <idPartType>94</idPartType>
+      <value>11.47</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="94:64">
+      <idPartType>94</idPartType>
+      <value>54.33</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="94:65">
+      <idPartType>94</idPartType>
+      <value>36.16</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="94:66">
+      <idPartType>94</idPartType>
+      <value>48.81</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="94:67">
+      <idPartType>94</idPartType>
+      <value>5.72</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="94:68">
+      <idPartType>94</idPartType>
+      <value>35.57</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="94:69">
+      <idPartType>94</idPartType>
+      <value>4.96</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="94:70">
+      <idPartType>94</idPartType>
+      <value>75.33</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="94:71">
+      <idPartType>94</idPartType>
+      <value>55.34</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="94:72">
+      <idPartType>94</idPartType>
+      <value>81.47</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="94:73">
+      <idPartType>94</idPartType>
+      <value>43.01</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="94:74">
+      <idPartType>94</idPartType>
+      <value>81.06</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="94:75">
+      <idPartType>94</idPartType>
+      <value>95.78</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="94:76">
+      <idPartType>94</idPartType>
+      <value>65.75</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="94:77">
+      <idPartType>94</idPartType>
+      <value>44.11</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="94:78">
+      <idPartType>94</idPartType>
+      <value>71.35</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="94:79">
+      <idPartType>94</idPartType>
+      <value>2.43</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="94:80">
+      <idPartType>94</idPartType>
+      <value>71.18</value>
+      <dueDate>12</dueDate>
+    </part>
+    <part id="94:81">
+      <idPartType>94</idPartType>
+      <value>51.87</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="94:82">
+      <idPartType>94</idPartType>
+      <value>43.22</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="94:83">
+      <idPartType>94</idPartType>
+      <value>10.59</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="94:84">
+      <idPartType>94</idPartType>
+      <value>100.02</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="94:85">
+      <idPartType>94</idPartType>
+      <value>76.23</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="94:86">
+      <idPartType>94</idPartType>
+      <value>59.09</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="94:87">
+      <idPartType>94</idPartType>
+      <value>99.79</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="94:88">
+      <idPartType>94</idPartType>
+      <value>9.52</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="94:89">
+      <idPartType>94</idPartType>
+      <value>44.35</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="94:90">
+      <idPartType>94</idPartType>
+      <value>73.94</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="143:0">
+      <idPartType>143</idPartType>
+      <value>4.41</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="143:1">
+      <idPartType>143</idPartType>
+      <value>55.31</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="143:2">
+      <idPartType>143</idPartType>
+      <value>96.87</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="143:3">
+      <idPartType>143</idPartType>
+      <value>60.91</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="143:4">
+      <idPartType>143</idPartType>
+      <value>47.09</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="143:5">
+      <idPartType>143</idPartType>
+      <value>49.7</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="143:6">
+      <idPartType>143</idPartType>
+      <value>51.69</value>
+      <dueDate>31</dueDate>
+    </part>
+    <part id="143:7">
+      <idPartType>143</idPartType>
+      <value>37.96</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="143:8">
+      <idPartType>143</idPartType>
+      <value>78.59</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="143:9">
+      <idPartType>143</idPartType>
+      <value>56.73</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="143:10">
+      <idPartType>143</idPartType>
+      <value>76.03</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="143:11">
+      <idPartType>143</idPartType>
+      <value>56.96</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="143:12">
+      <idPartType>143</idPartType>
+      <value>30.71</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="143:13">
+      <idPartType>143</idPartType>
+      <value>92.97</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="143:14">
+      <idPartType>143</idPartType>
+      <value>75.7</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="143:15">
+      <idPartType>143</idPartType>
+      <value>87.92</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="143:16">
+      <idPartType>143</idPartType>
+      <value>53.73</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="143:17">
+      <idPartType>143</idPartType>
+      <value>96.62</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="143:18">
+      <idPartType>143</idPartType>
+      <value>61.3</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="143:19">
+      <idPartType>143</idPartType>
+      <value>13.9</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="143:20">
+      <idPartType>143</idPartType>
+      <value>83.82</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="143:21">
+      <idPartType>143</idPartType>
+      <value>80.8</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="143:22">
+      <idPartType>143</idPartType>
+      <value>35.48</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="143:23">
+      <idPartType>143</idPartType>
+      <value>55.04</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="143:24">
+      <idPartType>143</idPartType>
+      <value>10.14</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="143:25">
+      <idPartType>143</idPartType>
+      <value>36.17</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="143:26">
+      <idPartType>143</idPartType>
+      <value>56.73</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="143:27">
+      <idPartType>143</idPartType>
+      <value>8.15</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="143:28">
+      <idPartType>143</idPartType>
+      <value>36.65</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="143:29">
+      <idPartType>143</idPartType>
+      <value>78.33</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="143:30">
+      <idPartType>143</idPartType>
+      <value>33.49</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="143:31">
+      <idPartType>143</idPartType>
+      <value>27.66</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="143:32">
+      <idPartType>143</idPartType>
+      <value>36.73</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="143:33">
+      <idPartType>143</idPartType>
+      <value>4.71</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="143:34">
+      <idPartType>143</idPartType>
+      <value>40.2</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="143:35">
+      <idPartType>143</idPartType>
+      <value>76.17</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="143:36">
+      <idPartType>143</idPartType>
+      <value>12.88</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="143:37">
+      <idPartType>143</idPartType>
+      <value>91.23</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="143:38">
+      <idPartType>143</idPartType>
+      <value>93.63</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="143:39">
+      <idPartType>143</idPartType>
+      <value>41.13</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="143:40">
+      <idPartType>143</idPartType>
+      <value>12.4</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="143:41">
+      <idPartType>143</idPartType>
+      <value>100.17</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="143:42">
+      <idPartType>143</idPartType>
+      <value>95.9</value>
+      <dueDate>9</dueDate>
+    </part>
+    <part id="143:43">
+      <idPartType>143</idPartType>
+      <value>86.92</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="143:44">
+      <idPartType>143</idPartType>
+      <value>28.83</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="143:45">
+      <idPartType>143</idPartType>
+      <value>17.3</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="143:46">
+      <idPartType>143</idPartType>
+      <value>18.1</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="143:47">
+      <idPartType>143</idPartType>
+      <value>89.42</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="143:48">
+      <idPartType>143</idPartType>
+      <value>86.51</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="143:49">
+      <idPartType>143</idPartType>
+      <value>88.91</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="143:50">
+      <idPartType>143</idPartType>
+      <value>37.24</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="143:51">
+      <idPartType>143</idPartType>
+      <value>67.0</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="143:52">
+      <idPartType>143</idPartType>
+      <value>62.47</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="143:53">
+      <idPartType>143</idPartType>
+      <value>89.87</value>
+      <dueDate>38</dueDate>
+    </part>
+    <part id="143:54">
+      <idPartType>143</idPartType>
+      <value>37.96</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="143:55">
+      <idPartType>143</idPartType>
+      <value>76.47</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="143:56">
+      <idPartType>143</idPartType>
+      <value>28.2</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="143:57">
+      <idPartType>143</idPartType>
+      <value>45.3</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="143:58">
+      <idPartType>143</idPartType>
+      <value>78.22</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="143:59">
+      <idPartType>143</idPartType>
+      <value>15.12</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="143:60">
+      <idPartType>143</idPartType>
+      <value>78.81</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="143:61">
+      <idPartType>143</idPartType>
+      <value>23.16</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="143:62">
+      <idPartType>143</idPartType>
+      <value>94.88</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="143:63">
+      <idPartType>143</idPartType>
+      <value>56.08</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="143:64">
+      <idPartType>143</idPartType>
+      <value>75.37</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="143:65">
+      <idPartType>143</idPartType>
+      <value>59.99</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="143:66">
+      <idPartType>143</idPartType>
+      <value>78.92</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="143:67">
+      <idPartType>143</idPartType>
+      <value>21.8</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="143:68">
+      <idPartType>143</idPartType>
+      <value>27.25</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="143:69">
+      <idPartType>143</idPartType>
+      <value>19.25</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="143:70">
+      <idPartType>143</idPartType>
+      <value>88.54</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="143:71">
+      <idPartType>143</idPartType>
+      <value>60.67</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="143:72">
+      <idPartType>143</idPartType>
+      <value>36.01</value>
+      <dueDate>21</dueDate>
+    </part>
+    <part id="143:73">
+      <idPartType>143</idPartType>
+      <value>81.63</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="143:74">
+      <idPartType>143</idPartType>
+      <value>42.04</value>
+      <dueDate>14</dueDate>
+    </part>
+    <part id="143:75">
+      <idPartType>143</idPartType>
+      <value>60.02</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="143:76">
+      <idPartType>143</idPartType>
+      <value>65.06</value>
+      <dueDate>17</dueDate>
+    </part>
+    <part id="143:77">
+      <idPartType>143</idPartType>
+      <value>42.99</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="143:78">
+      <idPartType>143</idPartType>
+      <value>55.51</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="143:79">
+      <idPartType>143</idPartType>
+      <value>93.73</value>
+      <dueDate>1</dueDate>
+    </part>
+    <part id="143:80">
+      <idPartType>143</idPartType>
+      <value>74.61</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="143:81">
+      <idPartType>143</idPartType>
+      <value>39.06</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="143:82">
+      <idPartType>143</idPartType>
+      <value>73.73</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="143:83">
+      <idPartType>143</idPartType>
+      <value>35.55</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="143:84">
+      <idPartType>143</idPartType>
+      <value>8.44</value>
+      <dueDate>27</dueDate>
+    </part>
+    <part id="143:85">
+      <idPartType>143</idPartType>
+      <value>14.77</value>
+      <dueDate>15</dueDate>
+    </part>
+    <part id="143:86">
+      <idPartType>143</idPartType>
+      <value>11.28</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="143:87">
+      <idPartType>143</idPartType>
+      <value>55.93</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="143:88">
+      <idPartType>143</idPartType>
+      <value>56.63</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="143:89">
+      <idPartType>143</idPartType>
+      <value>20.81</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="143:90">
+      <idPartType>143</idPartType>
+      <value>42.16</value>
+      <dueDate>31</dueDate>
+    </part>
+    <part id="143:91">
+      <idPartType>143</idPartType>
+      <value>79.43</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="143:92">
+      <idPartType>143</idPartType>
+      <value>70.28</value>
+      <dueDate>16</dueDate>
+    </part>
+    <part id="143:93">
+      <idPartType>143</idPartType>
+      <value>10.97</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="143:94">
+      <idPartType>143</idPartType>
+      <value>86.88</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="143:95">
+      <idPartType>143</idPartType>
+      <value>93.18</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="143:96">
+      <idPartType>143</idPartType>
+      <value>23.18</value>
+      <dueDate>8</dueDate>
+    </part>
+    <part id="143:97">
+      <idPartType>143</idPartType>
+      <value>64.52</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="143:98">
+      <idPartType>143</idPartType>
+      <value>72.32</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="143:99">
+      <idPartType>143</idPartType>
+      <value>31.43</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="143:100">
+      <idPartType>143</idPartType>
+      <value>9.91</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="143:101">
+      <idPartType>143</idPartType>
+      <value>99.68</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="143:102">
+      <idPartType>143</idPartType>
+      <value>26.39</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="143:103">
+      <idPartType>143</idPartType>
+      <value>93.88</value>
+      <dueDate>8</dueDate>
+    </part>
+  </parts>
+</problemDefinition>

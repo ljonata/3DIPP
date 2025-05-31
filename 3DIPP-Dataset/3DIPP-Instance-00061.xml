@@ -1,0 +1,562 @@
+<problemDefinition>
+  <nPartTypes>20</nPartTypes>
+  <nParts>66</nParts>
+  <meanDemand>3.3</meanDemand>
+  <rsdDemand>0.5992036343419754</rsdDemand>
+  <meanMCV>0.3745636363636365</meanMCV>
+  <rsdMCV>0.5967061675320748</rsdMCV>
+  <meanSR>0.18146818181818197</meanSR>
+  <rsdSR>0.8413201400695863</rsdSR>
+  <meanVolMBB>955481.4580272733</meanVolMBB>
+  <rsdVolMBB>1.3149599340384885</rsdVolMBB>
+  <meanNumFacets>10110.181818181818</meanNumFacets>
+  <rsdNumFacets>1.2013672313581303</rsdNumFacets>
+  <meanSurfaceArea>43331.13785909091</meanSurfaceArea>
+  <rsdSurfaceArea>1.0013153206839454</rsdSurfaceArea>
+  <meanVolume>114012.13480606058</meanVolume>
+  <rsdVolume>1.2146771096350062</rsdVolume>
+  <containers>
+    <cuboid id="0">
+      <height>125.0</height>
+      <volume>2578125.0</volume>
+      <cost>60.4</cost>
+      <time>40</time>
+      <width>125.0</width>
+      <depth>165.0</depth>
+    </cuboid>
+  </containers>
+  <partTypes>
+    <partType id="320">
+      <demand>4</demand>
+      <mcv>0.1996</mcv>
+      <vValue>0.1384</vValue>
+      <sr>0.0201</sr>
+      <volMBB>967141.8987</volMBB>
+      <facets>21992.0</facets>
+      <surfaceArea>45906.7562</surfaceArea>
+      <volume>19479.4173</volume>
+    </partType>
+    <partType id="225">
+      <demand>4</demand>
+      <mcv>0.5122</mcv>
+      <vValue>0.1762</vValue>
+      <sr>0.1164</sr>
+      <volMBB>3746455.221</volMBB>
+      <facets>2016.0</facets>
+      <surfaceArea>64771.5716</surfaceArea>
+      <volume>436131.4138</volume>
+    </partType>
+    <partType id="386">
+      <demand>5</demand>
+      <mcv>0.2884</mcv>
+      <vValue>0.0849</vValue>
+      <sr>0.1702</sr>
+      <volMBB>12562.49199</volMBB>
+      <facets>3252.0</facets>
+      <surfaceArea>2530.4557</surfaceArea>
+      <volume>2138.5709</volume>
+    </partType>
+    <partType id="228">
+      <demand>2</demand>
+      <mcv>0.2642</mcv>
+      <vValue>0.0959</vValue>
+      <sr>0.2014</sr>
+      <volMBB>2720265.548</volMBB>
+      <facets>1752.0</facets>
+      <surfaceArea>98753.2899</surfaceArea>
+      <volume>547914.1246</volume>
+    </partType>
+    <partType id="260">
+      <demand>7</demand>
+      <mcv>0.364</mcv>
+      <vValue>0.1102</vValue>
+      <sr>0.5045</sr>
+      <volMBB>383830.8445</volMBB>
+      <facets>456.0</facets>
+      <surfaceArea>44133.5806</surfaceArea>
+      <volume>193633.6083</volume>
+    </partType>
+    <partType id="133">
+      <demand>5</demand>
+      <mcv>0.2603</mcv>
+      <vValue>0.1442</vValue>
+      <sr>0.1589</sr>
+      <volMBB>996598.6575</volMBB>
+      <facets>3764.0</facets>
+      <surfaceArea>62590.2597</surfaceArea>
+      <volume>158349.6352</volume>
+    </partType>
+    <partType id="325">
+      <demand>2</demand>
+      <mcv>0.7116</mcv>
+      <vValue>0.1537</vValue>
+      <sr>0.0466</sr>
+      <volMBB>2764435.594</volMBB>
+      <facets>8690.0</facets>
+      <surfaceArea>103422.1085</surfaceArea>
+      <volume>128851.8053</volume>
+    </partType>
+    <partType id="38">
+      <demand>3</demand>
+      <mcv>0.2422</mcv>
+      <vValue>0.0829</vValue>
+      <sr>0.0746</sr>
+      <volMBB>93852.81496</volMBB>
+      <facets>6552.0</facets>
+      <surfaceArea>9961.8455</surfaceArea>
+      <volume>6997.921</volume>
+    </partType>
+    <partType id="327">
+      <demand>6</demand>
+      <mcv>0.2266</mcv>
+      <vValue>0.1352</vValue>
+      <sr>0.2651</sr>
+      <volMBB>22371.70291</volMBB>
+      <facets>4012.0</facets>
+      <surfaceArea>9076.1731</surfaceArea>
+      <volume>5930.0</volume>
+    </partType>
+    <partType id="105">
+      <demand>3</demand>
+      <mcv>0.7524</mcv>
+      <vValue>0.2317</vValue>
+      <sr>0.2063</sr>
+      <volMBB>46811.34271</volMBB>
+      <facets>410.0</facets>
+      <surfaceArea>4969.1536</surfaceArea>
+      <volume>9655.2729</volume>
+    </partType>
+    <partType id="393">
+      <demand>2</demand>
+      <mcv>0.1274</mcv>
+      <vValue>0.0491</vValue>
+      <sr>0.0542</sr>
+      <volMBB>1794163.523</volMBB>
+      <facets>20160.0</facets>
+      <surfaceArea>141602.1479</surfaceArea>
+      <volume>97192.1405</volume>
+    </partType>
+    <partType id="395">
+      <demand>2</demand>
+      <mcv>0.0285</mcv>
+      <vValue>0.0143</vValue>
+      <sr>0.0317</sr>
+      <volMBB>4815281.959</volMBB>
+      <facets>20640.0</facets>
+      <surfaceArea>183999.9034</surfaceArea>
+      <volume>152763.1571</volume>
+    </partType>
+    <partType id="81">
+      <demand>1</demand>
+      <mcv>0.4314</mcv>
+      <vValue>0.1352</vValue>
+      <sr>0.5749</sr>
+      <volMBB>41660.17648</volMBB>
+      <facets>100.0</facets>
+      <surfaceArea>10909.7646</surfaceArea>
+      <volume>23948.9827</volume>
+    </partType>
+    <partType id="369">
+      <demand>2</demand>
+      <mcv>0.2383</mcv>
+      <vValue>0.0951</vValue>
+      <sr>0.2989</sr>
+      <volMBB>104000.0023</volMBB>
+      <facets>1934.0</facets>
+      <surfaceArea>14521.1269</surfaceArea>
+      <volume>31081.2155</volume>
+    </partType>
+    <partType id="212">
+      <demand>2</demand>
+      <mcv>0.3609</mcv>
+      <vValue>0.0791</vValue>
+      <sr>0.2418</sr>
+      <volMBB>852070.9996</volMBB>
+      <facets>8566.0</facets>
+      <surfaceArea>47451.2962</surfaceArea>
+      <volume>206025.1648</volume>
+    </partType>
+    <partType id="375">
+      <demand>1</demand>
+      <mcv>0.2902</mcv>
+      <vValue>0.1366</vValue>
+      <sr>0.0394</sr>
+      <volMBB>140958.2903</volMBB>
+      <facets>50398.0</facets>
+      <surfaceArea>12978.0365</surfaceArea>
+      <volume>5553.023</volume>
+    </partType>
+    <partType id="185">
+      <demand>2</demand>
+      <mcv>0.2315</mcv>
+      <vValue>0.0758</vValue>
+      <sr>0.1475</sr>
+      <volMBB>455554.2796</volMBB>
+      <facets>932.0</facets>
+      <surfaceArea>35238.1557</surfaceArea>
+      <volume>67202.5729</volume>
+    </partType>
+    <partType id="250">
+      <demand>1</demand>
+      <mcv>0.5899</mcv>
+      <vValue>0.1498</vValue>
+      <sr>0.4657</sr>
+      <volMBB>286761.5998</volMBB>
+      <facets>260.0</facets>
+      <surfaceArea>28797.6167</surfaceArea>
+      <volume>133535.2934</volume>
+    </partType>
+    <partType id="350">
+      <demand>4</demand>
+      <mcv>0.1533</mcv>
+      <vValue>0.0634</vValue>
+      <sr>0.1087</sr>
+      <volMBB>1836043.048</volMBB>
+      <facets>9888.0</facets>
+      <surfaceArea>88766.8403</surfaceArea>
+      <volume>199518.5495</volume>
+    </partType>
+    <partType id="286">
+      <demand>8</demand>
+      <mcv>0.7987</mcv>
+      <vValue>0.1994</vValue>
+      <sr>0.0327</sr>
+      <volMBB>136680.9165</volMBB>
+      <facets>34044.0</facets>
+      <surfaceArea>3203.0343</surfaceArea>
+      <volume>4471.2305</volume>
+    </partType>
+  </partTypes>
+  <parts>
+    <part id="320:0">
+      <idPartType>320</idPartType>
+      <value>80.4</value>
+      <dueDate>13</dueDate>
+    </part>
+    <part id="320:1">
+      <idPartType>320</idPartType>
+      <value>50.97</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="320:2">
+      <idPartType>320</idPartType>
+      <value>28.28</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="320:3">
+      <idPartType>320</idPartType>
+      <value>80.52</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="225:0">
+      <idPartType>225</idPartType>
+      <value>89.27</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="225:1">
+      <idPartType>225</idPartType>
+      <value>90.78</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="225:2">
+      <idPartType>225</idPartType>
+      <value>14.55</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="225:3">
+      <idPartType>225</idPartType>
+      <value>1.69</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="386:0">
+      <idPartType>386</idPartType>
+      <value>92.27</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="386:1">
+      <idPartType>386</idPartType>
+      <value>7.59</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="386:2">
+      <idPartType>386</idPartType>
+      <value>92.48</value>
+      <dueDate>32</dueDate>
+    </part>
+    <part id="386:3">
+      <idPartType>386</idPartType>
+      <value>89.24</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="386:4">
+      <idPartType>386</idPartType>
+      <value>46.05</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="228:0">
+      <idPartType>228</idPartType>
+      <value>39.82</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="228:1">
+      <idPartType>228</idPartType>
+      <value>87.1</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="260:0">
+      <idPartType>260</idPartType>
+      <value>25.56</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="260:1">
+      <idPartType>260</idPartType>
+      <value>27.45</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="260:2">
+      <idPartType>260</idPartType>
+      <value>57.16</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="260:3">
+      <idPartType>260</idPartType>
+      <value>61.06</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="260:4">
+      <idPartType>260</idPartType>
+      <value>24.55</value>
+      <dueDate>2</dueDate>
+    </part>
+    <part id="260:5">
+      <idPartType>260</idPartType>
+      <value>50.54</value>
+      <dueDate>23</dueDate>
+    </part>
+    <part id="260:6">
+      <idPartType>260</idPartType>
+      <value>54.42</value>
+      <dueDate>28</dueDate>
+    </part>
+    <part id="133:0">
+      <idPartType>133</idPartType>
+      <value>87.76</value>
+      <dueDate>31</dueDate>
+    </part>
+    <part id="133:1">
+      <idPartType>133</idPartType>
+      <value>69.3</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="133:2">
+      <idPartType>133</idPartType>
+      <value>73.5</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="133:3">
+      <idPartType>133</idPartType>
+      <value>32.86</value>
+      <dueDate>37</dueDate>
+    </part>
+    <part id="133:4">
+      <idPartType>133</idPartType>
+      <value>16.29</value>
+      <dueDate>7</dueDate>
+    </part>
+    <part id="325:0">
+      <idPartType>325</idPartType>
+      <value>73.51</value>
+      <dueDate>29</dueDate>
+    </part>
+    <part id="325:1">
+      <idPartType>325</idPartType>
+      <value>47.32</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="38:0">
+      <idPartType>38</idPartType>
+      <value>17.63</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="38:1">
+      <idPartType>38</idPartType>
+      <value>30.97</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="38:2">
+      <idPartType>38</idPartType>
+      <value>81.36</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="327:0">
+      <idPartType>327</idPartType>
+      <value>27.27</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="327:1">
+      <idPartType>327</idPartType>
+      <value>26.29</value>
+      <dueDate>4</dueDate>
+    </part>
+    <part id="327:2">
+      <idPartType>327</idPartType>
+      <value>79.8</value>
+      <dueDate>30</dueDate>
+    </part>
+    <part id="327:3">
+      <idPartType>327</idPartType>
+      <value>77.91</value>
+      <dueDate>40</dueDate>
+    </part>
+    <part id="327:4">
+      <idPartType>327</idPartType>
+      <value>66.6</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="327:5">
+      <idPartType>327</idPartType>
+      <value>41.46</value>
+      <dueDate>11</dueDate>
+    </part>
+    <part id="105:0">
+      <idPartType>105</idPartType>
+      <value>55.51</value>
+      <dueDate>6</dueDate>
+    </part>
+    <part id="105:1">
+      <idPartType>105</idPartType>
+      <value>26.05</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="105:2">
+      <idPartType>105</idPartType>
+      <value>85.89</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="393:0">
+      <idPartType>393</idPartType>
+      <value>64.69</value>
+      <dueDate>35</dueDate>
+    </part>
+    <part id="393:1">
+      <idPartType>393</idPartType>
+      <value>21.98</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="395:0">
+      <idPartType>395</idPartType>
+      <value>76.19</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="395:1">
+      <idPartType>395</idPartType>
+      <value>22.63</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="81:0">
+      <idPartType>81</idPartType>
+      <value>31.97</value>
+      <dueDate>26</dueDate>
+    </part>
+    <part id="369:0">
+      <idPartType>369</idPartType>
+      <value>74.94</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="369:1">
+      <idPartType>369</idPartType>
+      <value>55.12</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="212:0">
+      <idPartType>212</idPartType>
+      <value>6.5</value>
+      <dueDate>3</dueDate>
+    </part>
+    <part id="212:1">
+      <idPartType>212</idPartType>
+      <value>53.2</value>
+      <dueDate>21</dueDate>
+    </part>
+    <part id="375:0">
+      <idPartType>375</idPartType>
+      <value>43.4</value>
+      <dueDate>25</dueDate>
+    </part>
+    <part id="185:0">
+      <idPartType>185</idPartType>
+      <value>41.32</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="185:1">
+      <idPartType>185</idPartType>
+      <value>34.26</value>
+      <dueDate>22</dueDate>
+    </part>
+    <part id="250:0">
+      <idPartType>250</idPartType>
+      <value>26.05</value>
+      <dueDate>10</dueDate>
+    </part>
+    <part id="350:0">
+      <idPartType>350</idPartType>
+      <value>85.4</value>
+      <dueDate>19</dueDate>
+    </part>
+    <part id="350:1">
+      <idPartType>350</idPartType>
+      <value>76.51</value>
+      <dueDate>34</dueDate>
+    </part>
+    <part id="350:2">
+      <idPartType>350</idPartType>
+      <value>74.89</value>
+      <dueDate>33</dueDate>
+    </part>
+    <part id="350:3">
+      <idPartType>350</idPartType>
+      <value>52.07</value>
+      <dueDate>24</dueDate>
+    </part>
+    <part id="286:0">
+      <idPartType>286</idPartType>
+      <value>15.86</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="286:1">
+      <idPartType>286</idPartType>
+      <value>69.01</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="286:2">
+      <idPartType>286</idPartType>
+      <value>74.15</value>
+      <dueDate>18</dueDate>
+    </part>
+    <part id="286:3">
+      <idPartType>286</idPartType>
+      <value>12.49</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="286:4">
+      <idPartType>286</idPartType>
+      <value>54.66</value>
+      <dueDate>36</dueDate>
+    </part>
+    <part id="286:5">
+      <idPartType>286</idPartType>
+      <value>73.53</value>
+      <dueDate>20</dueDate>
+    </part>
+    <part id="286:6">
+      <idPartType>286</idPartType>
+      <value>36.28</value>
+      <dueDate>5</dueDate>
+    </part>
+    <part id="286:7">
+      <idPartType>286</idPartType>
+      <value>9.47</value>
+      <dueDate>14</dueDate>
+    </part>
+  </parts>
+</problemDefinition>
